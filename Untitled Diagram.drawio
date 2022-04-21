@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T08:00:23.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1mU9qRddbp5jSfzV-CVn" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T08:03:03.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="f2DeL7EVBm8_fMpDs0AG" version="17.4.1" type="github">
   <diagram id="6oYB8ZV8PaiqR3EdmOuZ" name="Page-1">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,6 +120,24 @@
         </mxCell>
         <mxCell id="sHoyXKJvxX7CLdXnehRB-51" value="Chất lượng dư liệu" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#f5f5f5;fontFamily=Times New Roman;fontSize=14;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="300" y="710" width="670" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-52" value="Ingest" style="shape=singleArrow;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-53" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;fontFamily=Times New Roman;entryX=0.002;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1150" y="588.5700000000002" as="sourcePoint" />
+            <mxPoint x="1220.3600000000001" y="541.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-54" value="Transform" style="shape=singleArrow;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-55" value="Curate" style="shape=singleArrow;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-56" value="Analyse/Predict" style="shape=singleArrow;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="770" y="200" width="185" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
