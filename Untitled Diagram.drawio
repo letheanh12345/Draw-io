@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T07:12:30.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.1" etag="-wMCtEcbjuKMLt0c_MBO" type="github"><diagram id="6oYB8ZV8PaiqR3EdmOuZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-21T07:27:03.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tee63GFaPTPQLjBJmb9p" version="17.4.1" type="github">
+  <diagram id="6oYB8ZV8PaiqR3EdmOuZ" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-6" value="CSDL Cán Bộ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-7" value="CSDL Đoàn Viên" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-8" value="CSDL kiểm tra, giám sát" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-9" value="CSDL tài sản, tài chính" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-10" value="CSDL thỏa ước, khế ước" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-11" value="CSDL đối ngoại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sHoyXKJvxX7CLdXnehRB-12" value="CSDL Khác" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
