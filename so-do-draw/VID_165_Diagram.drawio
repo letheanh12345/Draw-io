@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:47:30.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1DslYTeNQYUVcBWQCqbU" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:50:06.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aOQZXWwC8cAM6RcVLINP" version="17.4.6" type="github" pages="6">
   <diagram name="c08-165" id="CW0oOLBctXxzXdrIu3qe">
     <mxGraphModel dx="1887" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1353,6 +1353,9 @@
         <mxCell id="1JcrjC7DEhZoR30MHxEd-91" value="HỆ THỐNG QUẢN LÝ PHÁP CHẾ PHÁP LUẬT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="428" y="205" width="326" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1m24ZLuHmFFD78kzUiQV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1JcrjC7DEhZoR30MHxEd-92" target="1JcrjC7DEhZoR30MHxEd-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1JcrjC7DEhZoR30MHxEd-92" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 17px&quot;&gt;&lt;b&gt;1. NHÓM ỨNG DỤNG CĐS CÔNG TÁC QUẢN LÝ,&lt;br&gt;&amp;nbsp;ĐIỀU HÀNH&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="310" y="-270" width="480" height="358" as="geometry" />
         </mxCell>
@@ -1368,44 +1371,26 @@
         <mxCell id="1JcrjC7DEhZoR30MHxEd-96" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" parent="1" vertex="1">
           <mxGeometry x="345.74" y="5" width="56.53" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1JcrjC7DEhZoR30MHxEd-97" value="HỆ THỐNG QUẢN LÝ TÀI SẢN, TÀI CHÍNH, ĐẦU TƯ VÀ THU PHÍ CÔNG ĐOÀN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="1JcrjC7DEhZoR30MHxEd-97" value="HỆ THỐNG BÁO CÁO THÔNG MINH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="437" y="25" width="326" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JcrjC7DEhZoR30MHxEd-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="327" y="-120" width="213" height="80" as="geometry" />
+          <mxGeometry x="557" y="-210" width="213" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1JcrjC7DEhZoR30MHxEd-99" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" parent="1" vertex="1">
-          <mxGeometry x="345.74" y="-105" width="56.53" height="50" as="geometry" />
+          <mxGeometry x="575.74" y="-195" width="56.53" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1JcrjC7DEhZoR30MHxEd-100" value="HỌP KHÔNG GIẤY TỜ(ECABINET)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="418.5" y="-95" width="93" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1JcrjC7DEhZoR30MHxEd-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="560" y="-120" width="213" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1JcrjC7DEhZoR30MHxEd-103" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" parent="1" vertex="1">
-          <mxGeometry x="578.74" y="-105" width="56.53" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1JcrjC7DEhZoR30MHxEd-104" value="HỆ THÔNG BÁO CÁO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="651.5" y="-95" width="93" height="30" as="geometry" />
+          <mxGeometry x="648.5" y="-185" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JcrjC7DEhZoR30MHxEd-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="327" y="-223" width="213" height="80" as="geometry" />
+          <mxGeometry x="327" y="-213" width="213" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1JcrjC7DEhZoR30MHxEd-106" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" parent="1" vertex="1">
-          <mxGeometry x="345.74" y="-208" width="56.53" height="50" as="geometry" />
+          <mxGeometry x="345.74" y="-198" width="56.53" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1JcrjC7DEhZoR30MHxEd-107" value="QUẢN LÝ VĂN BẢN VÀ ĐIỀU HÀNH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="418.5" y="-198" width="93" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1JcrjC7DEhZoR30MHxEd-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="560" y="-223" width="213" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1JcrjC7DEhZoR30MHxEd-109" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" parent="1" vertex="1">
-          <mxGeometry x="578.74" y="-208" width="56.53" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1JcrjC7DEhZoR30MHxEd-110" value="THƯ ĐIỆN TỬ(EMAIL)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="651.5" y="-198" width="93" height="30" as="geometry" />
+        <mxCell id="1JcrjC7DEhZoR30MHxEd-107" value="QUẢN LÝ VĂN BẢN VÀ KÝ SỐ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="418.5" y="-188" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JcrjC7DEhZoR30MHxEd-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="850" y="-12" width="410" height="80" as="geometry" />
