@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T08:55:43.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="kOn-cpfKvI-bZk87lij9" version="18.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-05T09:02:18.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="--ydENdlCb9NwHLdaJ-y" version="18.0.0" type="github" pages="2">
   <diagram id="qjjuinShcneCjo-Glk3s" name="Page-1">
     <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,10 +190,10 @@
           <mxGeometry x="480" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tDx7kImLb8eP4iuvQLXm-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="130" height="260" as="geometry" />
+          <mxGeometry x="610" y="200" width="130" height="260" as="geometry" />
         </mxCell>
         <mxCell id="tDx7kImLb8eP4iuvQLXm-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Truy cập/Phân tích dữ liệu&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="615" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="625" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDx7kImLb8eP4iuvQLXm-37" value="Staging area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="333" y="270" width="120" height="60" as="geometry" />
@@ -220,10 +220,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tDx7kImLb8eP4iuvQLXm-47" value="Data mart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="290" width="100" height="50" as="geometry" />
+          <mxGeometry x="625" y="290" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tDx7kImLb8eP4iuvQLXm-48" value="Data mart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="350" width="100" height="50" as="geometry" />
+          <mxGeometry x="625" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tDx7kImLb8eP4iuvQLXm-49" value="ETL" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tDx7kImLb8eP4iuvQLXm-47">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -245,14 +245,14 @@
         </mxCell>
         <mxCell id="tDx7kImLb8eP4iuvQLXm-53" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="710" y="320" as="sourcePoint" />
-            <mxPoint x="790" y="320" as="targetPoint" />
+            <mxPoint x="720" y="320" as="sourcePoint" />
+            <mxPoint x="800" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tDx7kImLb8eP4iuvQLXm-54" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="710" y="380" as="sourcePoint" />
-            <mxPoint x="790" y="380" as="targetPoint" />
+            <mxPoint x="720" y="380" as="sourcePoint" />
+            <mxPoint x="800" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tDx7kImLb8eP4iuvQLXm-55" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="1">
