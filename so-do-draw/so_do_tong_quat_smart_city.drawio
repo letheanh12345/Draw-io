@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T14:06:35.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="fmc2dSILkVl3ObJNvp4p" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T14:11:10.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="EdRRCbeXreCRBqGB-PUF" version="18.1.1" type="github">
   <diagram id="1R2kEKC6la7ISiCKplBR" name="Page-1">
     <mxGraphModel dx="1135" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,6 +177,18 @@
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-67" value="Ứng dụng khác" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="380" y="920" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-68" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1040" width="620" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-69" value="&lt;font color=&quot;#0829ff&quot;&gt;&lt;b&gt;Nền tảng tích hợp dữ liệu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="428" y="1040" width="182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subiz.com.vn/blog/wp-content/uploads/2016/12/API-1.jpg;" vertex="1" parent="1">
+          <mxGeometry x="617" y="1050" width="80" height="78.2" as="geometry" />
+        </mxCell>
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.ains.com/wp-content/uploads/2017/12/Enterprise-Service-Bus.png;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1060.1599999999999" width="145" height="59.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
