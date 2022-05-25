@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T15:05:09.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="1ZqolLtG7BCuy-VpPiqi" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T15:05:36.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="J33hfxMOJjaQAfbjX6Vv" version="18.1.1" type="github">
   <diagram id="1R2kEKC6la7ISiCKplBR" name="Page-1">
     <mxGraphModel dx="1930" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -110,22 +110,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00B336;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="395" y="650" width="185" height="360" as="geometry" />
+          <mxGeometry x="405" y="650" width="185" height="360" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ứng dụng cho Khách du lịch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="650" width="140" height="30" as="geometry" />
+          <mxGeometry x="410" y="650" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-47" value="Du lịch thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="400" y="710" width="170" height="40" as="geometry" />
+          <mxGeometry x="410" y="710" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-48" value="Thanh toán thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="400" y="761" width="170" height="40" as="geometry" />
+          <mxGeometry x="410" y="761" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-49" value="Tra cứu cứu hộ 24/7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="400" y="810" width="170" height="40" as="geometry" />
+          <mxGeometry x="410" y="810" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-50" value="Bản đồ thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="400" y="860" width="170" height="40" as="geometry" />
+          <mxGeometry x="410" y="860" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00B336;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="665" y="647" width="185" height="360" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="682.5" y="920" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-67" value="Ứng dụng khác" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="400" y="920" width="170" height="40" as="geometry" />
+          <mxGeometry x="410" y="920" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-68" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="1040" width="690" height="100" as="geometry" />
