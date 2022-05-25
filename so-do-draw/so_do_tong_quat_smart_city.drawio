@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T13:32:40.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="22xS7WZ09w6ijo5ECojN" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T13:37:25.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="YgZUISp1IjFf8r56v8dX" version="18.1.1" type="github">
   <diagram id="1R2kEKC6la7ISiCKplBR" name="Page-1">
     <mxGraphModel dx="1135" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d3d3d3;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="320" width="350" height="560" as="geometry" />
+          <mxGeometry x="10" y="320" width="350" height="680" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-6" value="&lt;font color=&quot;#ff1414&quot;&gt;DỊCH VỤ CUNG CẤP CHO NGƯỜI DÂN/ KHÁCH DU LỊCH&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="320" width="220" height="30" as="geometry" />
@@ -69,6 +69,15 @@
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-28" value="Giáo dục thông minh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="223" y="840" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.lovepik.com/element/45007/4768.png_860.png;" vertex="1" parent="1">
+          <mxGeometry x="40" y="870" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-30" value="Y tế thông minh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="51" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://toppng.com/uploads/preview/oun-renewable-energy-1147940-renewable-energy-icon-11563152696dhxwms8syt.png;" vertex="1" parent="1">
+          <mxGeometry x="238" y="870" width="78.15" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
