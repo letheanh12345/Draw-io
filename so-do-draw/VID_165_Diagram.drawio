@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T03:20:20.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="EaxRJ7Wjg-PvAsAMJ1U_" version="18.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-25T03:22:57.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="MvTy9U1BBMw3OZUsC6ox" version="18.1.1" type="github" pages="2">
   <diagram name="c08-165" id="CW0oOLBctXxzXdrIu3qe">
     <mxGraphModel dx="3217" dy="3159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -815,7 +815,7 @@
         <mxCell id="ofr5mU5VoPyBuChReVpN-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="2005" y="-320" width="100" height="1110" as="geometry" />
         </mxCell>
-        <mxCell id="F_SiMzKfZl8TMWI5dvZC-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;An toàn thông tin (ATTT&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="F_SiMzKfZl8TMWI5dvZC-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;An toàn thông tin (ATTT)&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1765.99" y="216" width="612.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F_SiMzKfZl8TMWI5dvZC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -850,9 +850,6 @@
         </mxCell>
         <mxCell id="F_SiMzKfZl8TMWI5dvZC-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.vectorstock.com/i/1000x1000/74/18/speedometer-icon-or-sign-with-arrow-vector-23887418.jpg;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-223" width="90" height="97.29" as="geometry" />
-        </mxCell>
-        <mxCell id="F_SiMzKfZl8TMWI5dvZC-21" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Firewall, Bảo mật&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="388" y="122.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F_SiMzKfZl8TMWI5dvZC-22" value="Đo thông minh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1398" y="-104" width="92" height="30" as="geometry" />
