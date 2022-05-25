@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T14:01:11.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="EePhEvBCnKnA7pKXwBVl" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T14:01:33.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="v8zHAhnd4GM80S1X-HSp" version="18.1.1" type="github">
   <diagram id="1R2kEKC6la7ISiCKplBR" name="Page-1">
     <mxGraphModel dx="1135" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -119,16 +119,16 @@
           <mxGeometry x="373" y="650" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-47" value="Du lịch thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="380" y="710" width="140" height="40" as="geometry" />
+          <mxGeometry x="380" y="710" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-48" value="Thanh toán thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="380" y="761" width="140" height="40" as="geometry" />
+          <mxGeometry x="380" y="761" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-49" value="Tra cứu cứu hộ 24/7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="380" y="810" width="140" height="40" as="geometry" />
+          <mxGeometry x="380" y="810" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-50" value="Bản đồ thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="380" y="860" width="140" height="40" as="geometry" />
+          <mxGeometry x="380" y="860" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00B336;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="600" y="650" width="185" height="270" as="geometry" />
