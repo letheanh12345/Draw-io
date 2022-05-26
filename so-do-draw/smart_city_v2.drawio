@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T02:37:48.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="mDWub2hQBQErii-RBPyF" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T02:38:55.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="DlYWrVR0xnv6Vbko5_XG" version="18.1.1" type="github">
   <diagram id="qnBXsK6qpXqkWEz8ziyW" name="Page-1">
     <mxGraphModel dx="529" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,16 +22,16 @@
         <mxCell id="dhkDiin92o1FZTLwF9Eo-7" value="Quản lý hệ thống &#xa;giám sát " style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mvphone.vn/wp-content/uploads/2019/07/Security-Camera-Icon-Png-715x508-300x213.png;" vertex="1" parent="1">
           <mxGeometry x="1420.19" y="90.5" width="140.85" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dhkDiin92o1FZTLwF9Eo-9" value="QUản lý hệ thống &#xa;y tế" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn5.vectorstock.com/i/thumb-large/91/59/medical-tent-related-glyph-icon-vector-41549159.jpg;" vertex="1" parent="1">
+        <mxCell id="dhkDiin92o1FZTLwF9Eo-9" value="QUản lý nhóm hệ thống &#xa;y tế" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn5.vectorstock.com/i/thumb-large/91/59/medical-tent-related-glyph-icon-vector-41549159.jpg;" vertex="1" parent="1">
           <mxGeometry x="1181.08" y="502.22" width="107.84" height="113.28" as="geometry" />
         </mxCell>
         <mxCell id="dhkDiin92o1FZTLwF9Eo-11" value="Quản lý khách du lịch" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180605/fzb/kisspng-travel-computer-icons-tour-operator-tourism-hotel-one-day-tour-5b16979a8e68a2.1747683715282072585833.jpg;" vertex="1" parent="1">
           <mxGeometry x="1165" y="308.94" width="140" height="80.77" as="geometry" />
         </mxCell>
-        <mxCell id="dhkDiin92o1FZTLwF9Eo-14" value="Quản lý hệ thống &#xa;giáo dục" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180320/gtq/kisspng-distance-education-teacher-school-training-download-education-icon-5ab1346439c264.8949368415215627242366.jpg;" vertex="1" parent="1">
+        <mxCell id="dhkDiin92o1FZTLwF9Eo-14" value="Quản lý nhóm hệ thống &#xa;giáo dục" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180320/gtq/kisspng-distance-education-teacher-school-training-download-education-icon-5ab1346439c264.8949368415215627242366.jpg;" vertex="1" parent="1">
           <mxGeometry x="926.93" y="510" width="110" height="97.73" as="geometry" />
         </mxCell>
-        <mxCell id="dhkDiin92o1FZTLwF9Eo-15" value="Quản lý hệ thông &#xa;dịch vụ công" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://st.quantrimang.com/photos/image/2020/10/05/dich-vu-cong-truc-tuyen-size-24x24-znd.svg;" vertex="1" parent="1">
+        <mxCell id="dhkDiin92o1FZTLwF9Eo-15" value="Quản lý nhóm hệ thông &#xa;dịch vụ công" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://st.quantrimang.com/photos/image/2020/10/05/dich-vu-cong-truc-tuyen-size-24x24-znd.svg;" vertex="1" parent="1">
           <mxGeometry x="1436.15" y="719.56" width="108.92" height="108.92" as="geometry" />
         </mxCell>
         <mxCell id="dhkDiin92o1FZTLwF9Eo-16" value="Quản lý hệ thống&#xa;năng lượng xanh" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://icon.com.vn/Portals/0/userfiles/nguyenthuyduong/4526_nang-luong-tai-tao.jpg;" vertex="1" parent="1">
