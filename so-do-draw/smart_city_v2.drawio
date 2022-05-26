@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T02:52:43.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="jDYeORlK3xF4iyT_IyBy" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T02:56:55.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="-Ph4_mcWPByQu4DGGXyp" version="18.1.1" type="github">
   <diagram id="qnBXsK6qpXqkWEz8ziyW" name="Page-1">
     <mxGraphModel dx="758" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="dhkDiin92o1FZTLwF9Eo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d3d3d3;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="880" y="20" width="710" height="1350" as="geometry" />
         </mxCell>
-        <mxCell id="dhkDiin92o1FZTLwF9Eo-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;CÁC HỆ THỐNG CHUYÊN DỤNG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1414;" vertex="1" parent="1">
+        <mxCell id="dhkDiin92o1FZTLwF9Eo-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;CÁC HỆ THỐNG CHUYÊN DỤNG&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1414;" vertex="1" parent="1">
           <mxGeometry x="890" y="30" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dhkDiin92o1FZTLwF9Eo-3" value="Hệ thống mạng viên thông" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.elcom.com.vn/assets/web/images/telecom/project-1.png;" vertex="1" parent="1">
