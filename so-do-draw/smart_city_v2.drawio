@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T02:08:32.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="nrY5zZ34T9Crx8YIbfOV" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T02:08:43.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="lcZ0nKIRoWJ9PE69AJwx" version="18.1.1" type="github">
   <diagram id="qnBXsK6qpXqkWEz8ziyW" name="Page-1">
     <mxGraphModel dx="529" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="890" y="30" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dhkDiin92o1FZTLwF9Eo-3" value="Hệ thống mạng viên thông" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.elcom.com.vn/assets/web/images/telecom/project-1.png;" vertex="1" parent="1">
-          <mxGeometry x="900" y="69" width="163.86" height="123" as="geometry" />
+          <mxGeometry x="900" y="79" width="163.86" height="123" as="geometry" />
         </mxCell>
         <mxCell id="dhkDiin92o1FZTLwF9Eo-4" value="Hệ thống GIS" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icons.iconarchive.com/icons/icons-land/gis-gps-map/256/Layers-icon.png;" vertex="1" parent="1">
           <mxGeometry x="1180" y="50" width="145" height="145" as="geometry" />
