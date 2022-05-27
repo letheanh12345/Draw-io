@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T08:18:53.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="jr5ElaczqA57_0DaL-aY" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T01:41:28.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="j16LKdclJdL0451VOJ16" version="18.1.1" type="github">
   <diagram id="1R2kEKC6la7ISiCKplBR" name="Page-1">
-    <mxGraphModel dx="1930" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="772" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,12 +75,6 @@
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-34" value="Người dân" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e7.pngegg.com/pngimages/216/253/png-clipart-people-icon-miscellaneous-hand-thumbnail.png;" vertex="1" parent="1">
           <mxGeometry x="700" y="370" width="108" height="77.9" as="geometry" />
-        </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#010626;" edge="1" parent="1" source="2u4G7c4Pcr-FfqxoIeHw-35" target="2u4G7c4Pcr-FfqxoIeHw-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontColor=#010626;" edge="1" parent="1" source="2u4G7c4Pcr-FfqxoIeHw-35" target="2u4G7c4Pcr-FfqxoIeHw-41">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-35" value="Chính quyền đo thị" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thanhniencec.edu.vn/wp-content/uploads/2017/06/icon-phong-ban.png;" vertex="1" parent="1">
           <mxGeometry x="960" y="350" width="115.31" height="90" as="geometry" />
