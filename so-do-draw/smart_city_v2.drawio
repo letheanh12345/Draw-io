@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T03:37:02.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ApJJ6iOBGhHrLPz3lh1W" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T03:44:31.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="shfvbb_XbSyl9TkoTEyp" version="18.1.1" type="github">
   <diagram id="qnBXsK6qpXqkWEz8ziyW" name="Page-1">
     <mxGraphModel dx="758" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dhkDiin92o1FZTLwF9Eo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d3d3d3;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="890" y="30" width="710" height="1350" as="geometry" />
+          <mxGeometry x="880" y="30" width="730" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="dhkDiin92o1FZTLwF9Eo-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;CÁC HỆ THỐNG CHÍNH QUYỀN THÔNG MINH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1414;" parent="1" vertex="1">
           <mxGeometry x="890" y="30" width="390" height="30" as="geometry" />
