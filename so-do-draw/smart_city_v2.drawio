@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T03:44:31.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="shfvbb_XbSyl9TkoTEyp" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T04:02:57.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ttxNGL3UnuxJQDh6GbJk" version="18.1.1" type="github">
   <diagram id="qnBXsK6qpXqkWEz8ziyW" name="Page-1">
     <mxGraphModel dx="758" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,6 +95,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I6Wh_KoivfKvnpvqZTc9-20" value="Quản lý hệ thống &#xa;xử lý mô trường" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.lovepik.com/photo/50039/8017.jpg_wh860.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1433.1100000000001" y="942.04" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
