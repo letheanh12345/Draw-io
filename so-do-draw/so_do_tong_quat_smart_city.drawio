@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T02:08:47.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="heuwdLELQjq9A_0dm3BG" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T02:31:10.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="N7FW0sVpzybKGXHarnuh" version="18.1.1" type="github">
   <diagram id="1R2kEKC6la7ISiCKplBR" name="Page-1">
     <mxGraphModel dx="1485" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-34" value="Người dân" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e7.pngegg.com/pngimages/216/253/png-clipart-people-icon-miscellaneous-hand-thumbnail.png;" vertex="1" parent="1">
           <mxGeometry x="700" y="370" width="108" height="77.9" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-35" value="Chính quyền đo thị" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thanhniencec.edu.vn/wp-content/uploads/2017/06/icon-phong-ban.png;" vertex="1" parent="1">
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-35" value="Chính quyền đô thị" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thanhniencec.edu.vn/wp-content/uploads/2017/06/icon-phong-ban.png;" vertex="1" parent="1">
           <mxGeometry x="960" y="350" width="115.31" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-37" value="Mobile App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e7.pngegg.com/pngimages/369/514/png-clipart-mobile-app-development-application-software-mobile-device-android-mobile-phone-text-phone-icon.png;" vertex="1" parent="1">
@@ -176,31 +176,31 @@
           <mxGeometry x="390" y="1500" width="700" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1540" width="190" height="80" as="geometry" />
+          <mxGeometry x="640" y="1530" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-104" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;HẠ TẦNG TTĐH VẬT LÝ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1562.5" width="130" height="30" as="geometry" />
+          <mxGeometry x="700" y="1552.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-107" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/datacenter-icon/datacenter-icon-24.jpg;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1558.5" width="41.5" height="41.5" as="geometry" />
+          <mxGeometry x="650" y="1548.5" width="41.5" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="433" y="1540" width="167" height="80" as="geometry" />
+          <mxGeometry x="423" y="1530" width="167" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-109" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;HẠ TẦNG LƯU TRỮ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="494.5" y="1565" width="105.5" height="25" as="geometry" />
+          <mxGeometry x="484.5" y="1555" width="105.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1540" width="200" height="80" as="geometry" />
+          <mxGeometry x="880" y="1530" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-111" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;HẠ TẦNG MẠNG&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="865" y="1562.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="895" y="1552.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-112" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/wifi-router-123-1120579.png;" vertex="1" parent="1">
-          <mxGeometry x="987.87" y="1562.1200000000001" width="34.26" height="34.26" as="geometry" />
+          <mxGeometry x="1017.87" y="1552.1200000000001" width="34.26" height="34.26" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-113" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://aux4.iconspalace.com/uploads/703389313.png;" vertex="1" parent="1">
-          <mxGeometry x="445" y="1558.5" width="43" height="43" as="geometry" />
+          <mxGeometry x="435" y="1548.5" width="43" height="43" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-150" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#FFFAFB;fillColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="400" y="1350" width="680" height="130" as="geometry" />
