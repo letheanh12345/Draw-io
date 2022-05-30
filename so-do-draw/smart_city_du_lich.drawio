@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T08:53:10.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="w1yHxA3YUx-G6UtmJdXK" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T08:55:48.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="JnCNCs8DWPXEcaKVmlHj" version="18.1.3" type="github">
   <diagram id="YVmNv48VYtaEa-Qu43L8" name="Page-1">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,13 +70,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-9" target="V7S1DQHfznA4UIGBVDYL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V7S1DQHfznA4UIGBVDYL-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/credit-card-955-1115056.png;" vertex="1" parent="1">
           <mxGeometry x="410" y="310" width="85" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="V7S1DQHfznA4UIGBVDYL-17" value="Thanh toán xe bus" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/543/543885.png;" vertex="1" parent="1">
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-17" value="Thanh toán xe bus" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/543/543885.png;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="52" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="V7S1DQHfznA4UIGBVDYL-19" value="Thanh toán nhà hàng" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-wKjpoEMGQTI/YPuC-DgXm7I/AAAAAAAAeGU/QPQwFgCCd1MWt8JS9BCDMgJGAw7o0mMkQCNcBGAsYHQ/w320-h320/nha-hang.png;" vertex="1" parent="1">
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-19" value="Thanh toán nhà hàng" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-wKjpoEMGQTI/YPuC-DgXm7I/AAAAAAAAeGU/QPQwFgCCd1MWt8JS9BCDMgJGAw7o0mMkQCNcBGAsYHQ/w320-h320/nha-hang.png;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="221" y="184.5" width="51" height="51" as="geometry" />
         </mxCell>
         <mxCell id="V7S1DQHfznA4UIGBVDYL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-20" target="V7S1DQHfznA4UIGBVDYL-9">
@@ -87,17 +90,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V7S1DQHfznA4UIGBVDYL-20" value="Thanh toán khách sạn" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-clipart/20191123/original/pngtree-hotel-building-vector-illustration-with-simple-design-hotel-icon-png-image_5194507.jpg;" vertex="1" parent="1">
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-20" value="Thanh toán khách sạn" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-clipart/20191123/original/pngtree-hotel-building-vector-illustration-with-simple-design-hotel-icon-png-image_5194507.jpg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="212.5" y="270" width="67" height="67.39" as="geometry" />
         </mxCell>
-        <mxCell id="V7S1DQHfznA4UIGBVDYL-22" value="Thanh toán phí gửi xe" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20190115/ourlarge/pngtree-car-in-garage-flat-multi-color-icon-png-image_315868.jpg;" vertex="1" parent="1">
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-22" value="Thanh toán phí gửi xe" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20190115/ourlarge/pngtree-car-in-garage-flat-multi-color-icon-png-image_315868.jpg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="370" width="56.5" height="56.5" as="geometry" />
         </mxCell>
-        <mxCell id="V7S1DQHfznA4UIGBVDYL-23" value="Thanh toán mua sắm " style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/element_our/20190522/ourlarge/pngtree-shopping-cart-icon-design-image_1071385.jpg;" vertex="1" parent="1">
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-23" value="Thanh toán mua sắm " style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/element_our/20190522/ourlarge/pngtree-shopping-cart-icon-design-image_1071385.jpg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="52.75" height="52.75" as="geometry" />
         </mxCell>
-        <mxCell id="V7S1DQHfznA4UIGBVDYL-25" value="Thanh toán khác" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180402/jyw/kisspng-payment-gateway-payment-processor-computer-icons-e-payment-5ac2099273b664.339933471522665874474.jpg;" vertex="1" parent="1">
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-25" value="Thanh toán khác" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180402/jyw/kisspng-payment-gateway-payment-processor-computer-icons-e-payment-5ac2099273b664.339933471522665874474.jpg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="216.5" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-39" target="V7S1DQHfznA4UIGBVDYL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://victoriatourist.com.vn/wp-content/uploads/2020/06/unnamed.png;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="65" height="63.14" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-42" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Thanh toán phí tại các khu du lịch&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="180" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
