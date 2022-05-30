@@ -1,9 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T08:03:20.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="ZGwIQ71XB6EwzNut8uxm" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T08:53:10.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="w1yHxA3YUx-G6UtmJdXK" version="18.1.3" type="github">
   <diagram id="YVmNv48VYtaEa-Qu43L8" name="Page-1">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-3" target="V7S1DQHfznA4UIGBVDYL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-3" value="Quản lý phần mềm &#xa;thẻ thông minh" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/premium/png-256-thumb/data-management-1683684-1431573.png;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="125" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/education-information/32/data-512.png;" vertex="1" parent="1">
+          <mxGeometry x="636" y="344" width="61" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-9" target="V7S1DQHfznA4UIGBVDYL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="126" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="349" />
+              <mxPoint x="360" y="126" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="349" as="sourcePoint" />
+            <mxPoint x="280" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="349" />
+              <mxPoint x="360" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="349" />
+              <mxPoint x="360" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-9" target="V7S1DQHfznA4UIGBVDYL-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="349" />
+              <mxPoint x="360" y="304" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="349" />
+              <mxPoint x="360" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="486" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="349" />
+              <mxPoint x="360" y="486" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/credit-card-955-1115056.png;" vertex="1" parent="1">
+          <mxGeometry x="410" y="310" width="85" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-17" value="Thanh toán xe bus" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/543/543885.png;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-19" value="Thanh toán nhà hàng" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-wKjpoEMGQTI/YPuC-DgXm7I/AAAAAAAAeGU/QPQwFgCCd1MWt8JS9BCDMgJGAw7o0mMkQCNcBGAsYHQ/w320-h320/nha-hang.png;" vertex="1" parent="1">
+          <mxGeometry x="221" y="184.5" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V7S1DQHfznA4UIGBVDYL-20" target="V7S1DQHfznA4UIGBVDYL-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="304" />
+              <mxPoint x="360" y="349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-20" value="Thanh toán khách sạn" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-clipart/20191123/original/pngtree-hotel-building-vector-illustration-with-simple-design-hotel-icon-png-image_5194507.jpg;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="270" width="67" height="67.39" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-22" value="Thanh toán phí gửi xe" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20190115/ourlarge/pngtree-car-in-garage-flat-multi-color-icon-png-image_315868.jpg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="56.5" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-23" value="Thanh toán mua sắm " style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/element_our/20190522/ourlarge/pngtree-shopping-cart-icon-design-image_1071385.jpg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="52.75" height="52.75" as="geometry" />
+        </mxCell>
+        <mxCell id="V7S1DQHfznA4UIGBVDYL-25" value="Thanh toán khác" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180402/jyw/kisspng-payment-gateway-payment-processor-computer-icons-e-payment-5ac2099273b664.339933471522665874474.jpg;" vertex="1" parent="1">
+          <mxGeometry x="216.5" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
