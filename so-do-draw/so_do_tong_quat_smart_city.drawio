@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T09:48:19.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="cLxAlQPX5Lm7PDukAvlT" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T10:16:10.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="vuQuKxdKGX_jHs20I3Pg" version="18.2.0" type="github">
   <diagram id="1R2kEKC6la7ISiCKplBR" name="Page-1">
     <mxGraphModel dx="1379" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,59 +106,47 @@
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00B336;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="392.29" y="641.5" width="380" height="379" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ứng dụng cho người dân/ khách du lịch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-46" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Ứng dụng cho người dân/ khách du lịch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="410" y="650" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-47" value="Du lịch thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="410" y="710" width="170" height="40" as="geometry" />
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-47" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nền tảng du lịch thông minh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+          <mxGeometry x="410" y="710" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-48" value="Thanh toán thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="410" y="761" width="170" height="40" as="geometry" />
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-53" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nền tảng Y tế thông minh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+          <mxGeometry x="410" y="811.38" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-49" value="Tra cứu cứu hộ 24/7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="410" y="810" width="170" height="40" as="geometry" />
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nền tảng giáo dục thông minh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+          <mxGeometry x="410" y="920" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-50" value="Bản đồ thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="410" y="860" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-53" value="Y tế thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="600" y="710" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-54" value="Giáo dục thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="600" y="761" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-55" value="Cổng thông tin dịch vụ công" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="600" y="811" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-56" value="Dịch vụ giữ xe thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="600" y="861" width="160" height="40" as="geometry" />
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-55" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nền tảng cổng thông tin dịch vụ công&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+          <mxGeometry x="410" y="761" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00B336;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="778" y="642.27" width="310" height="378.23" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ứng dụng công nhân viên chức đô thị&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="785" y="651.77" width="175" height="30" as="geometry" />
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-58" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Ứng dụng công nhân viên chức đô thị&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="785" y="651.77" width="285" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-59" value="Quản lý dân cư" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-59" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Quản lý dân cư&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="960" y="761" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-60" value="Quản lý tài chính" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-60" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Quản lý tài chính&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="788.86" y="761" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-61" value="Quản lý khai thác năng lượng xanh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-61" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Quản lý khai thác năng lượng xanh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="788.86" y="710" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-62" value="Quản lý giám sát" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-62" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Quản lý giám sát&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="790" y="810" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-63" value="Báo cáo thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-63" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Báo cáo thông minh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="790" y="860" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-65" value="Ứng dụng khác" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-65" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ứng dụng khác&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="788.86" y="975" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-67" value="Ứng dụng khác" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="410" y="975" width="170" height="40" as="geometry" />
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-67" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ứng dụng khác&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+          <mxGeometry x="410" y="975" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-68" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="390" y="1040" width="700" height="100" as="geometry" />
@@ -271,13 +259,10 @@
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-194" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Hạ tầng dữ liệu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="390" y="1500" width="178.16" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-204" value="Tra cứu thông tin môi trường" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="600" y="920" width="160" height="40" as="geometry" />
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-205" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Nền tảng giao thông thông minh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+          <mxGeometry x="409" y="863.53" width="311" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-205" value="Giao thông thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
-          <mxGeometry x="408" y="920" width="172" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-209" value="Quản lý xử lý môi trường thông minh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-209" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Quản lý xử lý môi trường thông minh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="790" y="920" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
