@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T10:18:10.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="B6YWSv86HSH_aozGZBQx" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T10:20:32.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="IrK01eePooG87fp2uxj-" version="18.2.0" type="github">
   <diagram id="1R2kEKC6la7ISiCKplBR" name="Page-1">
     <mxGraphModel dx="1379" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -264,6 +264,9 @@
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-209" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Quản lý xử lý môi trường thông minh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="790" y="920" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LphIVIo3leZGNE2L5M-2-1" value="Giao thông thông minh" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://beetinnovators.com/wp-content/uploads/2020/05/bitraffic1.jpg;" vertex="1" parent="1">
+          <mxGeometry x="211.25" y="1330" width="121.5" height="63.79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
