@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T01:50:17.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="nMTJBqAF9oqVhuZnA3P_" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T01:56:51.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="SpOwXnxJt2Uh8t02reng" version="18.2.0" type="github">
   <diagram id="1R2kEKC6la7ISiCKplBR" name="Page-1">
     <mxGraphModel dx="1379" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,8 +124,8 @@
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00B336;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="778" y="642.27" width="310" height="378.23" as="geometry" />
         </mxCell>
-        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-58" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Ứng dụng công nhân viên chức đô thị&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="785" y="651.77" width="285" height="30" as="geometry" />
+        <mxCell id="2u4G7c4Pcr-FfqxoIeHw-58" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Ứng dụng cho chính quyền đô thị&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="781.36" y="650" width="285" height="18.23" as="geometry" />
         </mxCell>
         <mxCell id="2u4G7c4Pcr-FfqxoIeHw-59" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Quản lý dân cư&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="960" y="761" width="100" height="40" as="geometry" />
