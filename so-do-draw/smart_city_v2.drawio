@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T04:18:50.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="uYVR3Ot3LfiBZujsUyeI" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T06:50:44.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="70Zr9b87R5mU5j7GOo2H" version="18.2.1" type="github">
   <diagram id="qnBXsK6qpXqkWEz8ziyW" name="Page-1">
     <mxGraphModel dx="1080" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="1275" y="129.57999999999996" width="140" height="93.42" as="geometry" />
         </mxCell>
         <mxCell id="dhkDiin92o1FZTLwF9Eo-26" value="Quảng cáo" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hocmarketing.org/photos/detail-image-4/quang-cao-la-gi.jpg;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="511.27" width="180" height="112.5" as="geometry" />
+          <mxGeometry x="1150" y="521.27" width="180" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="I6Wh_KoivfKvnpvqZTc9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00B336;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="890" y="70" width="710" height="215" as="geometry" />
