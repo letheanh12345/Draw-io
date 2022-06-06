@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T01:44:37.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="QSXS_eAE2gFLyKrKIRce" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T03:26:52.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="iIdqUMGPHtRW39MN3YNl" version="18.2.1" type="github" pages="2">
   <diagram id="x17xbJqW4DfnTneC2RcX" name="Page-1">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,14 @@
         <mxCell id="dEfijDA0tVlUIeCRIemn-13" value="Tra cứu thông tin&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280.5" y="220" width="110" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xkCjR8oe7rNIh2-U-tDY" name="Page-2">
+    <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
