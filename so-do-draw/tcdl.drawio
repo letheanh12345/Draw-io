@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T06:50:07.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="QiVIfP8phoep_ZV2Yf7v" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-07T06:50:47.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="eHxHFpSXaJkuKJKH0NLg" version="19.0.0" type="github" pages="2">
   <diagram id="1Qcaf6288ehqlXWWsb9V" name="Page-1">
-    <mxGraphModel dx="1755" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
         <mxCell id="Z3dsv60K6eEqbvK3-hk6-7" value="Ứng dụng du lịch thông minh cho khách du lịch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1167.5" y="297" width="195" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Z3dsv60K6eEqbvK3-hk6-9" value="Ứng dụng thông tin du lochj cho người dân và doanh nghiệp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="Z3dsv60K6eEqbvK3-hk6-9" value="Ứng dụng thông tin du lịch cho người dân và doanh nghiệp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1168.75" y="350" width="191.25" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Z3dsv60K6eEqbvK3-hk6-10" value="Hệ thống quản lý chia sẻ dữ liệu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
