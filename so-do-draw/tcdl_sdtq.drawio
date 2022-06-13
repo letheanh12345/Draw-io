@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T04:52:25.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="1LzYxxdE-_-02c9ac2XI" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T04:52:57.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="4PmJV3Mh2DJhV-WQyR2W" version="20.0.1" type="github">
   <diagram id="ZFM-qC4R8ZPciTshkOly" name="Page-1">
     <mxGraphModel dx="2757" dy="2643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,10 +241,10 @@
         <mxCell id="pVwDu6yBrwNiej8qQjBI-238" value="QUẢN TRỊ VẬN HÀNH GIÁM SÁT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;rotation=-90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="55" y="336.5" width="700" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-239" value="&lt;b&gt;TRỤC TÍCH HỢP NỘI BỘ&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;fillColor=#D5E8D4;direction=south;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-239" value="&lt;b&gt;TRỤC TÍCH HỢP NỘI BỘ&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;fillColor=#d5e8d4;direction=south;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="810" y="690" width="870" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-240" value="&lt;b&gt;TRỤC TÍCH HỢP NỘI BỘ&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;fillColor=#D5E8D4;direction=south;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-240" value="&lt;b&gt;TRỤC TÍCH HỢP NỘI BỘ&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;fillColor=#d5e8d4;direction=south;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="634" y="-180" width="1206" height="59" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-241" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#D1EBE5;" vertex="1" parent="1">
