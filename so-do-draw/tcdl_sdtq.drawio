@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T05:07:05.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="6PDfJEhkFSmpay4UgOWI" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T05:08:59.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="DKIsuPaM58BoBGN7G927" version="20.0.1" type="github">
   <diagram id="ZFM-qC4R8ZPciTshkOly" name="Page-1">
     <mxGraphModel dx="1930" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -484,7 +484,7 @@
         <mxCell id="pVwDu6yBrwNiej8qQjBI-320" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
           <mxGeometry x="599.74" y="554.5" width="56.53" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-321" value="Quản lý hệ thống số hóa văn bản" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-321" value="Quản lý hệ thống quản lý lưu trữ và số hóa văn bản" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="652.27" y="561" width="195" height="39" as="geometry" />
         </mxCell>
       </root>
