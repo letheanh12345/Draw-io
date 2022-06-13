@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T05:02:22.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="FmuAjJHCkWQwSP5lNrRB" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T05:05:43.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="nOOe586EeINF2EZgcmmJ" version="20.0.1" type="github">
   <diagram id="ZFM-qC4R8ZPciTshkOly" name="Page-1">
     <mxGraphModel dx="1930" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -323,7 +323,7 @@
           <mxGeometry x="2085" y="916" width="100" height="62" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-266" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 17px&quot;&gt;&lt;b&gt;NHÓM ỨNG DỤNG NGHIỆP VỤ THÔNG MINH&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="572" y="295.5" width="608" height="260" as="geometry" />
+          <mxGeometry x="572" y="295.5" width="608" height="324.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-267" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 17px&quot;&gt;&lt;b&gt;NHÓM ỨNG DỤNG XÚC TIẾN QUẢNG BÁ DU LỊCH&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1197.75" y="295.5" width="670.25" height="260" as="geometry" />
@@ -341,10 +341,10 @@
           <mxGeometry x="599.74" y="345.5" width="56.53" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-272" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="584" y="416" width="266" height="61" as="geometry" />
+          <mxGeometry x="584" y="406" width="266" height="61" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-273" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
-          <mxGeometry x="599.74" y="425" width="56.53" height="50" as="geometry" />
+          <mxGeometry x="599.74" y="415" width="56.53" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-274" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="882" y="336.5" width="266" height="61" as="geometry" />
@@ -409,10 +409,10 @@
         <mxCell id="pVwDu6yBrwNiej8qQjBI-294" value="Module hỗ trợ ra quyết định" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="782" y="66.5" width="226" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-295" value="App doanh nghiệp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-295" value="Ứng dụng dịch vụ du lịch cho doanh nghiệp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1284" y="66" width="536" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-296" value="App người du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-296" value="App du lịch thông minh cho khách du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1280" y="169.5" width="550" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-297" value="Hệ thống quản lý điểm đến" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
@@ -428,7 +428,7 @@
           <mxGeometry x="1307" y="437" width="533" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-301" value="Hệ thống quản lý doanh nghiệp lữ hành" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="652.27" y="431.5" width="195" height="30" as="geometry" />
+          <mxGeometry x="652.27" y="421.5" width="195" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-302" value="&lt;font style=&quot;&quot;&gt;Hệ thống quản lý HDV Du lịch&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="943.27" y="430" width="180" height="20" as="geometry" />
@@ -455,28 +455,37 @@
           <mxGeometry x="737.74" y="212" width="49" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-310" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="584" y="487.63" width="266" height="61" as="geometry" />
+          <mxGeometry x="584" y="477.63" width="266" height="61" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-311" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
-          <mxGeometry x="599.74" y="496.63" width="56.53" height="50" as="geometry" />
+          <mxGeometry x="599.74" y="486.63" width="56.53" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-312" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="882" y="487.63" width="266" height="61" as="geometry" />
+          <mxGeometry x="882" y="487.63" width="266" height="122.37" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-313" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
-          <mxGeometry x="897.74" y="496.63" width="56.53" height="50" as="geometry" />
+          <mxGeometry x="888.47" y="530" width="56.53" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-314" value="Quản lý đề tài nghiên cứu khoa học về du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="652.27" y="503.13" width="195" height="30" as="geometry" />
+          <mxGeometry x="652.27" y="493.13" width="195" height="36.87" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-315" value="Ứng dụng quản lý điều tra, thống kê, phân loại,đánh giá&lt;br&gt;&amp;nbsp;tài nguyên du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="934.61" y="504.88" width="221.39" height="30" as="geometry" />
+          <mxGeometry x="932.3" y="500" width="217.7" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-316" value="Ứng dụng quản trị điều hành IOC" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="590" y="61.5" width="130" height="178.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-317" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
           <mxGeometry x="626.73" y="66.5" width="56.53" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-319" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="584" y="545.5" width="266" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-320" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
+          <mxGeometry x="599.74" y="554.5" width="56.53" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-321" value="Quản lý đề tài nghiên cứu khoa học về du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="652.27" y="561" width="195" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
