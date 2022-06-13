@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T03:44:04.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="cVqcRnrgNqgIsJ045rtd" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T03:44:13.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="7PUJ0tVs0YIBJfDeRQcw" version="20.0.1" type="github">
   <diagram id="ZFM-qC4R8ZPciTshkOly" name="Page-1">
     <mxGraphModel dx="2144" dy="2427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
           <mxGeometry x="1918" y="-76" width="150" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-140" value="NỀN TẢNG THANH TOÁN TRỰC TUYẾN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="1921" y="61.5" width="150" height="92.5" as="geometry" />
+          <mxGeometry x="1918" y="54" width="150" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-141" value="NỀN TẢNG KÝ SỐ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="1921" y="203" width="150" height="92.5" as="geometry" />
