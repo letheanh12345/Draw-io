@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T05:05:43.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="nOOe586EeINF2EZgcmmJ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T05:07:05.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="6PDfJEhkFSmpay4UgOWI" version="20.0.1" type="github">
   <diagram id="ZFM-qC4R8ZPciTshkOly" name="Page-1">
     <mxGraphModel dx="1930" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -407,7 +407,7 @@
           <mxGeometry x="1921" y="630" width="150" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-294" value="Module hỗ trợ ra quyết định" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="782" y="66.5" width="226" height="30" as="geometry" />
+          <mxGeometry x="782" y="66.5" width="358" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-295" value="Ứng dụng dịch vụ du lịch cho doanh nghiệp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1284" y="66" width="536" height="30" as="geometry" />
@@ -437,19 +437,19 @@
           <mxGeometry x="737.74" y="63" width="49" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-304" value="Module báo cáo theo chỉ tiêu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="782" y="116" width="226" height="30" as="geometry" />
+          <mxGeometry x="782" y="116" width="358" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-305" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="737.74" y="112.5" width="49" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-306" value="Module dự báo phân tích xu thế" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="782" y="166.5" width="246" height="30" as="geometry" />
+          <mxGeometry x="782" y="166.5" width="368" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-307" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="737.74" y="163" width="49" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-308" value="Tích hợp dịch vụ bản đồ số GIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="782" y="215.5" width="236" height="30" as="geometry" />
+          <mxGeometry x="782" y="215.5" width="368" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-309" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="737.74" y="212" width="49" height="38" as="geometry" />
@@ -484,7 +484,7 @@
         <mxCell id="pVwDu6yBrwNiej8qQjBI-320" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
           <mxGeometry x="599.74" y="554.5" width="56.53" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-321" value="Quản lý đề tài nghiên cứu khoa học về du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-321" value="Quản lý hệ thống số hóa văn bản" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="652.27" y="561" width="195" height="39" as="geometry" />
         </mxCell>
       </root>
