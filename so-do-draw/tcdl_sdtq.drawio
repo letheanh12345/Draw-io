@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T05:09:47.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="JX9FF8m42CmYJ9GIIhLd" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T05:17:35.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="cuQBAp_hX39U7awU0rGT" version="20.0.1" type="github">
   <diagram id="ZFM-qC4R8ZPciTshkOly" name="Page-1">
     <mxGraphModel dx="1930" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -290,16 +290,16 @@
           <mxGeometry x="1102.5" y="920" width="101" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-255" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="905" y="746" width="60" height="80" as="geometry" />
+          <mxGeometry x="928" y="769" width="60" height="34" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-256" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1595" y="748" width="60" height="80" as="geometry" />
+          <mxGeometry x="1603" y="765" width="60" height="42" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-257" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1015.5" y="607.5" width="51" height="100" as="geometry" />
+          <mxGeometry x="1044.25" y="636.25" width="51" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-258" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1502.25" y="608.75" width="51.5" height="100" as="geometry" />
+          <mxGeometry x="1536.63" y="643.13" width="51.5" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-259" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="906.75" y="-112.25" width="55" height="41.5" as="geometry" />
@@ -314,19 +314,19 @@
           <mxGeometry x="1594.32" y="-230.18" width="53.75" height="40.12" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-263" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=90;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2258.63" y="479.13" width="104.25" height="69.5" as="geometry" />
+          <mxGeometry x="2284.31" y="504.82" width="52.88" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-264" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=-90;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2084" y="284" width="100" height="58" as="geometry" />
+          <mxGeometry x="2106" y="306" width="56" height="58" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-265" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=-90;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="916" width="100" height="62" as="geometry" />
+          <mxGeometry x="2107.5" y="938.5" width="55" height="62" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-266" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 17px&quot;&gt;&lt;b&gt;NHÓM ỨNG DỤNG NGHIỆP VỤ THÔNG MINH&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="572" y="295.5" width="608" height="324.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-267" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 17px&quot;&gt;&lt;b&gt;NHÓM ỨNG DỤNG XÚC TIẾN QUẢNG BÁ DU LỊCH&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1197.75" y="295.5" width="670.25" height="260" as="geometry" />
+          <mxGeometry x="1197.75" y="295.5" width="670.25" height="324.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-268" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 17px&quot;&gt;&lt;b&gt;NHÓM ỨNG DỤNG DỊCH VỤ DÙNG CHUNG CỦA NGÀNH DU LỊCH&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1197.75" y="10.870000000000005" width="670.25" height="260" as="geometry" />
@@ -383,10 +383,10 @@
           <mxGeometry x="1255.74" y="434" width="56.53" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-286" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=90;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2258.63" y="194.13" width="104.25" height="69.5" as="geometry" />
+          <mxGeometry x="2279.31" y="214.82" width="62.88" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-287" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=90;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2258.63" y="730" width="104.25" height="69.5" as="geometry" />
+          <mxGeometry x="2284.31" y="755.69" width="52.88" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-288" value="&lt;b&gt;NỀN TẢNG ĐỊNH DANH, XÁC THỰC (IDM)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1918" y="-76" width="150" height="92.5" as="geometry" />
@@ -421,7 +421,7 @@
         <mxCell id="pVwDu6yBrwNiej8qQjBI-298" value="Hệ thống quản lý khách sạn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="953" y="355.5" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-299" value="Tạp chí quảng bá xúc tiến du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-299" value="Web quảng bá xúc tiến du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1303" y="358" width="527" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-300" value="Tạp chí du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
@@ -486,6 +486,15 @@
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-321" value="Hệ thống quản lý lưu trữ và số hóa văn bản" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="652.27" y="561" width="195" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-323" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="510" width="610" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-324" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
+          <mxGeometry x="1255.74" y="519" width="56.53" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-325" value="Ứng dụng quản lý dữ liệu số hóa điểm đến" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1307" y="522" width="533" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
