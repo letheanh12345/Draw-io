@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T03:37:20.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="Yl0TZzOfwQkQbp3kvc7j" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T03:39:39.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="FA9-nLimM__ci0N2Soy1" version="20.0.1" type="github">
   <diagram id="ZFM-qC4R8ZPciTshkOly" name="Page-1">
     <mxGraphModel dx="2144" dy="2427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -280,19 +280,19 @@
         <mxCell id="pVwDu6yBrwNiej8qQjBI-91" value="&lt;b&gt;REPORT&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1795" y="950" width="126" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-92" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-92" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL du lịch VN&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="609" y="917.5" width="101" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-93" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#BADAFF;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-93" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL hương dan viên du lịch&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#BADAFF;" vertex="1" parent="1">
           <mxGeometry x="729.5" y="917.5" width="101" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-94" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#BADAFF;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-94" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL doanh nghiệp lữ hành&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#BADAFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="917.5" width="101" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-95" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#BADAFF;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-95" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL lưu trú du lịch&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#BADAFF;" vertex="1" parent="1">
           <mxGeometry x="977" y="920.5" width="101" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pVwDu6yBrwNiej8qQjBI-96" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#BADAFF;" vertex="1" parent="1">
+        <mxCell id="pVwDu6yBrwNiej8qQjBI-96" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL Khác&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#BADAFF;" vertex="1" parent="1">
           <mxGeometry x="1102.5" y="920" width="101" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-97" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#99CCFF;rotation=90;" vertex="1" parent="1">
