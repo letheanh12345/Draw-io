@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T03:06:05.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_dCu08LXU5vjodla-eB_" version="20.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-20T03:41:19.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="m4cQg16etGLWcQSGYULJ" version="20.0.1" type="github" pages="4">
   <diagram id="1Qcaf6288ehqlXWWsb9V" name="Page-1">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,22 +153,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3zSaYKXGGkovZ__-gUdE" name="Page-2">
-    <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zzv-11EYJt3nk6hofZCp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="zzv-11EYJt3nk6hofZCp-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zzv-11EYJt3nk6hofZCp-2" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="230" y="120" width="193" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="fv-HYU8vpA0ibSBftamc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="zzv-11EYJt3nk6hofZCp-4" target="zzv-11EYJt3nk6hofZCp-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fv-HYU8vpA0ibSBftamc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="zzv-11EYJt3nk6hofZCp-4" target="p5Cemq3Gxw0EvmDBvIG9-3" edge="1">
+        <mxCell id="1G2sdpimViPzgNY81TKQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="zzv-11EYJt3nk6hofZCp-4" target="zzv-11EYJt3nk6hofZCp-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zzv-11EYJt3nk6hofZCp-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
@@ -176,18 +165,6 @@
         </mxCell>
         <mxCell id="zzv-11EYJt3nk6hofZCp-5" value="&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;Cụm máy chủ DWH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="140" width="430" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zzv-11EYJt3nk6hofZCp-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL du lịch việt nam&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="140" width="153" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zzv-11EYJt3nk6hofZCp-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL hướng dẫn viên du lịch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="185" width="153" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zzv-11EYJt3nk6hofZCp-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL doanh nghiệp lữ hành quốc tế&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="240" width="153" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zzv-11EYJt3nk6hofZCp-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL Khác&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="450" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zzv-11EYJt3nk6hofZCp-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="212.5" width="119" height="280" as="geometry" />
@@ -211,34 +188,58 @@
           <mxGeometry x="710" y="225" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zzv-11EYJt3nk6hofZCp-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="120" width="179" height="180" as="geometry" />
+          <mxGeometry x="1040" y="220" width="179" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zzv-11EYJt3nk6hofZCp-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Cụm máy chủ BI&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="120" width="149" height="50" as="geometry" />
+          <mxGeometry x="1050" y="220" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zzv-11EYJt3nk6hofZCp-46" value="Hệ thống BI (Dashboard)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="168.75" width="159" height="120" as="geometry" />
+          <mxGeometry x="1045" y="268.75" width="159" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="p5Cemq3Gxw0EvmDBvIG9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="320" width="179" height="180" as="geometry" />
+        <mxCell id="qCfOnjA069i2Un3meEd5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="gaLzOKseeCDsVhi2jgv0-1" target="zzv-11EYJt3nk6hofZCp-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5Cemq3Gxw0EvmDBvIG9-4" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Cụm máy chủ&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;cho các ứng dụng&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="330" width="169" height="30" as="geometry" />
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-1" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="148.5" y="66.25" width="190" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="p5Cemq3Gxw0EvmDBvIG9-5" value="Hệ thống dịch vụ dùng chung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="370" width="159" height="60" as="geometry" />
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL hướng dẫn viên du lịch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="81.25" width="153" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p5Cemq3Gxw0EvmDBvIG9-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL cơ sở lưu trú du lịch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="300" width="153" height="40" as="geometry" />
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL doanh nghiệp lữ hành&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="136.25" width="153" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p5Cemq3Gxw0EvmDBvIG9-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL Chatbot&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="400" width="153" height="40" as="geometry" />
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL Khác&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="346.25" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p5Cemq3Gxw0EvmDBvIG9-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL địa điểm du lịch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="350" width="153" height="40" as="geometry" />
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL cơ sở lưu trú du lịch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="196.25" width="153" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nsYYfjAcSmIVcBbk7mr0-1" value="Hệ thống quản lý chia sẻ dữ liệu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="440" width="159" height="60" as="geometry" />
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL Chatbot&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="296.25" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL từ 63 sở tỉnh thành&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="246.25" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qCfOnjA069i2Un3meEd5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="gaLzOKseeCDsVhi2jgv0-8" target="zzv-11EYJt3nk6hofZCp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-8" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="148.5" y="461.25" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL&amp;nbsp; HIỆN TẠI&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="178.5" y="36.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-10" value="CSDL app du lịch thông minh" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="481.25" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-11" value="CSDL số hóa điểm đến" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="171.5" y="531.25" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gaLzOKseeCDsVhi2jgv0-12" value="CSDL Khác" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="581.25" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qCfOnjA069i2Un3meEd5-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL&amp;nbsp; CÁC HT XÂY DỰNG TRONG DỰ ÁN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="421.25" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
