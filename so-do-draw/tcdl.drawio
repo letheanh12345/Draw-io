@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T03:04:34.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="c1OC6BFa6HNFeH3z30Pp" version="20.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-20T03:06:05.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_dCu08LXU5vjodla-eB_" version="20.0.1" type="github" pages="4">
   <diagram id="1Qcaf6288ehqlXWWsb9V" name="Page-1">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -381,8 +381,14 @@
         <mxCell id="8qjoLEBLw44NIltAZ1Qj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8qjoLEBLw44NIltAZ1Qj-6" target="8qjoLEBLw44NIltAZ1Qj-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8qjoLEBLw44NIltAZ1Qj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8qjoLEBLw44NIltAZ1Qj-6" target="8qjoLEBLw44NIltAZ1Qj-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8qjoLEBLw44NIltAZ1Qj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8qjoLEBLw44NIltAZ1Qj-6" target="8qjoLEBLw44NIltAZ1Qj-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="420" />
+              <mxPoint x="1130" y="339" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8qjoLEBLw44NIltAZ1Qj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8qjoLEBLw44NIltAZ1Qj-6" target="8qjoLEBLw44NIltAZ1Qj-13">
           <mxGeometry relative="1" as="geometry" />
@@ -396,17 +402,11 @@
         <mxCell id="8qjoLEBLw44NIltAZ1Qj-8" value="Hệ thống quản lý chỉ tiêu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1160" y="199" width="200" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="8qjoLEBLw44NIltAZ1Qj-9" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="250" width="210" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="8qjoLEBLw44NIltAZ1Qj-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Hệ thống dịch vụ dùng chung&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="250" width="205" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8qjoLEBLw44NIltAZ1Qj-11" value="Ứng dụng du lịch thông minh cho khách du lịch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="1167.5" y="297" width="195" height="83" as="geometry" />
+        <mxCell id="8qjoLEBLw44NIltAZ1Qj-11" value="Hệ thống du lịch thông minh&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="297" width="200" height="83" as="geometry" />
         </mxCell>
         <mxCell id="8qjoLEBLw44NIltAZ1Qj-13" value="Hệ thống quản lý chia sẻ dữ liệu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="435" width="210" height="60" as="geometry" />
+          <mxGeometry x="1160" y="435" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
