@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T15:17:50.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZpozDlapAP9Mpol6WNxd" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-20T15:18:48.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wrDCGx_WYWVZM5OyxPrl" version="20.0.1" type="github" pages="2">
   <diagram name="c08-165" id="CW0oOLBctXxzXdrIu3qe">
     <mxGraphModel dx="4871" dy="3159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
           <mxGeometry x="2230" y="-493.54999999999995" width="52.02" height="52.02" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-30" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;TRỤC LIÊN THÔNG&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#FFFAFB;fontStyle=1" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="800" y="627" width="250" height="30" as="geometry" />
+          <mxGeometry x="800" y="717" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#FFFAFB;fillColor=#A9C4EB;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="280" y="400" width="1520" height="160" as="geometry" />
@@ -195,28 +195,28 @@
           <mxGeometry x="1930" y="-410" width="100" height="820" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#FFFAFB;fillColor=#9AC7BF;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="280" y="640" width="1520" height="160" as="geometry" />
+          <mxGeometry x="280" y="730" width="1520" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-250" y="627" width="160" height="160" as="geometry" />
+          <mxGeometry x="-250" y="730" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-63" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;HẠ TẦNG CNTT&lt;br style=&quot;font-size: 30px;&quot;&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#000000;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-220" y="697" width="100" height="30" as="geometry" />
+          <mxGeometry x="-220" y="797" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="654" y="684" width="310" height="80" as="geometry" />
+          <mxGeometry x="654" y="774" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-65" value="&lt;b&gt;HẠ TẦNG TTĐH VẬT LÝ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="754" y="709" width="200" height="30" as="geometry" />
+          <mxGeometry x="754" y="799" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="998" y="686" width="360" height="80" as="geometry" />
+          <mxGeometry x="998" y="776" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-67" value="&lt;b&gt;HẠ TẦNG, THIẾT BỊ KHÁC&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="1008" y="711" width="200" height="30" as="geometry" />
+          <mxGeometry x="1008" y="801" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/datacenter-icon/datacenter-icon-24.jpg;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="663.26" y="688.25" width="71.5" height="71.5" as="geometry" />
+          <mxGeometry x="663.26" y="778.25" width="71.5" height="71.5" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;TRỤC LIÊN THÔNG KẾT NỐI&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;rotation=-90;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="1673.75" y="-8.46" width="612.5" height="30" as="geometry" />
@@ -231,25 +231,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="310" y="683.5" width="310" height="80" as="geometry" />
+          <mxGeometry x="310" y="773.5" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-77" value="&lt;b&gt;HẠ TẦNG LƯU TRỮ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="410" y="708.5" width="200" height="30" as="geometry" />
+          <mxGeometry x="410" y="798.5" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="1390" y="686" width="360" height="80" as="geometry" />
+          <mxGeometry x="1390" y="776" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-79" value="&lt;b&gt;HẠ TẦNG MẠNG&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="1400" y="711" width="200" height="30" as="geometry" />
+          <mxGeometry x="1400" y="801" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-80" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-256/wifi-router-123-1120579.png;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="1636.76" y="693" width="73" height="73" as="geometry" />
+          <mxGeometry x="1636.76" y="783" width="73" height="73" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-81" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://aux4.iconspalace.com/uploads/703389313.png;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="327" y="693" width="66" height="66" as="geometry" />
+          <mxGeometry x="327" y="783" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-82" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_freertos_device;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="1273" y="698" width="61" height="61" as="geometry" />
+          <mxGeometry x="1273" y="788" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FFFFFF;fillColor=#FFFAFB;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="2120" y="919" width="200" height="120" as="geometry" />
