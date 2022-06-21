@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T01:47:49.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BOmHYUGmYwXrCvaKBi7v" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T01:54:45.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4aBE0u0ijJQAMhtbS-zO" version="20.0.1" type="github" pages="2">
   <diagram name="c08-165" id="CW0oOLBctXxzXdrIu3qe">
-    <mxGraphModel dx="3584" dy="2363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4871" dy="3159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-0" />
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-1" parent="pF9z6u1SWXpfZDpVJ3eo-0" />
@@ -480,6 +480,9 @@
         </mxCell>
         <mxCell id="RsyoRfbdwS9SLM5SHhn5-19" value="CHÍNH SÁCH THÔNG TIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;rotation=-90;fontStyle=1" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="-340" y="110" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rn59GmFM-pEklxCyoqJ1-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/4072/4072573.png;" vertex="1" parent="pF9z6u1SWXpfZDpVJ3eo-1">
+          <mxGeometry x="1614.87" y="200" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
