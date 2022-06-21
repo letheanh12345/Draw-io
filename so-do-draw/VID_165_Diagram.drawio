@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T01:47:15.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="EY4-auOjB5Ap5gTfRe1z" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T01:47:49.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BOmHYUGmYwXrCvaKBi7v" version="20.0.1" type="github" pages="2">
   <diagram name="c08-165" id="CW0oOLBctXxzXdrIu3qe">
-    <mxGraphModel dx="3262" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3584" dy="2363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-0" />
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-1" parent="pF9z6u1SWXpfZDpVJ3eo-0" />
@@ -108,13 +108,13 @@
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-32" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_4.svg;fontSize=19;fontColor=#FFFAFB;fillColor=#97D077;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="317.5" y="430.6" width="120" height="88.8" as="geometry" />
         </mxCell>
-        <mxCell id="pF9z6u1SWXpfZDpVJ3eo-33" value="CSDL Nghiệ vụ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;fontStyle=1" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
+        <mxCell id="pF9z6u1SWXpfZDpVJ3eo-33" value="CSDL Nghiệp vụ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;fontStyle=1" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="302.3" y="518" width="137.7" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-34" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_4.svg;fontSize=19;fontColor=#FFFAFB;fillColor=#97D077;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="612" y="430.6" width="120" height="88.8" as="geometry" />
         </mxCell>
-        <mxCell id="pF9z6u1SWXpfZDpVJ3eo-35" value="CSDL Vi phậm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;fontStyle=1" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
+        <mxCell id="pF9z6u1SWXpfZDpVJ3eo-35" value="CSDL Vi phạm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;fontStyle=1" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="590" y="517" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-36" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_4.svg;fontSize=19;fontColor=#FFFAFB;fillColor=#97D077;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
