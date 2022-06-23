@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T01:48:26.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Orm4RFbXT8dWU_k1pxIv" version="20.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-23T01:49:59.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wJugNIuDpF4PvgcNXe0o" version="20.0.2" type="github" pages="2">
   <diagram name="c08-165" id="CW0oOLBctXxzXdrIu3qe">
     <mxGraphModel dx="3409" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,11 +13,6 @@
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;fillColor=none;strokeColor=#000000;strokeWidth=3;perimeterSpacing=3;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="250" y="190" width="1560" height="440" as="geometry" />
         </mxCell>
-        <UserObject label="https://th.bing.com/th/id/OIP.ehpTLAG1AIpNqxdmj20VlgHaDt?pid=ImgDet&amp;rs=1" link="https://th.bing.com/th/id/OIP.ehpTLAG1AIpNqxdmj20VlgHaDt?pid=ImgDet&amp;rs=1" id="pF9z6u1SWXpfZDpVJ3eo-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;fillColor=none;strokeColor=#666666;strokeWidth=3;dashed=1;perimeterSpacing=3;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-            <mxGeometry x="-260" y="-900" width="2660" height="2110" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="-250" y="216" width="160" height="360" as="geometry" />
         </mxCell>
