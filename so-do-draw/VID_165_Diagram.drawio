@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T01:49:59.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wJugNIuDpF4PvgcNXe0o" version="20.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-23T01:51:06.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RCUNBPU1-NxoDCApVBTf" version="20.0.2" type="github" pages="2">
   <diagram name="c08-165" id="CW0oOLBctXxzXdrIu3qe">
     <mxGraphModel dx="3409" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="250" y="190" width="1560" height="440" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-250" y="216" width="160" height="360" as="geometry" />
+          <mxGeometry x="-160" y="216" width="160" height="360" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FFFFFF;fillColor=#FFFAFB;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="2120" y="717" width="200" height="120" as="geometry" />
@@ -107,13 +107,13 @@
           <mxGeometry x="278" y="200" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-51" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;DỮ LIỆU&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#000000;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-220" y="376" width="100" height="30" as="geometry" />
+          <mxGeometry x="-130" y="376" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-250" y="-327" width="160" height="400" as="geometry" />
+          <mxGeometry x="-160" y="-327" width="160" height="400" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-53" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;ỨNG DỤNG&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#000000;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-230" y="-144" width="120" height="30" as="geometry" />
+          <mxGeometry x="-140" y="-144" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="pF9z6u1SWXpfZDpVJ3eo-1" source="pF9z6u1SWXpfZDpVJ3eo-60" target="pF9z6u1SWXpfZDpVJ3eo-87" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -142,10 +142,10 @@
           <mxGeometry x="250" y="730" width="1550" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-250" y="730" width="160" height="160" as="geometry" />
+          <mxGeometry x="-160" y="730" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-63" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;HẠ TẦNG CNTT&lt;br style=&quot;font-size: 30px;&quot;&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#000000;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-220" y="800" width="100" height="27" as="geometry" />
+          <mxGeometry x="-130" y="800" width="100" height="27" as="geometry" />
         </mxCell>
         <mxCell id="pF9z6u1SWXpfZDpVJ3eo-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#A9C4EB;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="654" y="774" width="310" height="80" as="geometry" />
@@ -416,7 +416,7 @@
           <mxGeometry x="-150" y="99.99999999999997" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RsyoRfbdwS9SLM5SHhn5-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;LỚP GIAO TIẾP&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-250" y="-595.46" width="160" height="180.46" as="geometry" />
+          <mxGeometry x="-160" y="-595.46" width="160" height="180.46" as="geometry" />
         </mxCell>
         <mxCell id="RsyoRfbdwS9SLM5SHhn5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;direction=south;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="70" y="1090" width="2280" height="70" as="geometry" />
@@ -428,7 +428,7 @@
           <mxGeometry x="1614.87" y="200" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZFl7Cvp0WwNRmlucUk7E-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;QUẢN LÝ CHỈ ĐẠO&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="-250" y="1029" width="160" height="160" as="geometry" />
+          <mxGeometry x="-160" y="1029" width="160" height="141" as="geometry" />
         </mxCell>
         <mxCell id="ZFl7Cvp0WwNRmlucUk7E-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="250" y="-480.00000000000006" width="1580" height="140" as="geometry" />
@@ -541,17 +541,11 @@
         <mxCell id="bgNzC7NMwCmtHW6RVeBM-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CSDL Đăng kiểm&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="670" y="479.97" width="120" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="bgNzC7NMwCmtHW6RVeBM-17" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="1290" y="120" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bgNzC7NMwCmtHW6RVeBM-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Phân vùn CSDL nghiệp vụ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="300" y="422.47" width="292" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgNzC7NMwCmtHW6RVeBM-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CSDL vi phạm, Tai nạn&amp;nbsp;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="1570" y="489.47" width="135.99" height="100.53" as="geometry" />
-        </mxCell>
-        <mxCell id="bgNzC7NMwCmtHW6RVeBM-21" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
-          <mxGeometry x="1290" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgNzC7NMwCmtHW6RVeBM-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Phân vùng CSDL bằng chứng&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="pF9z6u1SWXpfZDpVJ3eo-1" vertex="1">
           <mxGeometry x="1510" y="430" width="280" height="30" as="geometry" />
