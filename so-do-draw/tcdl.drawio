@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T02:44:41.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Qp0tJn51pA3ZLsAJsjpa" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-27T02:45:20.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jBmN1tP-8q7ic0Sbr2Wx" version="20.0.3" type="github" pages="8">
   <diagram id="1Qcaf6288ehqlXWWsb9V" name="Page-1">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -900,6 +900,9 @@
         <mxCell id="-laZeqscqfGlsmr0jDLg-12" value="Phân hệ quản trị phân quyền" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="420" width="190" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="dzasydcw3FO6pfxnTPyJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-laZeqscqfGlsmr0jDLg-13" target="-laZeqscqfGlsmr0jDLg-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-laZeqscqfGlsmr0jDLg-13" value="Phân hệ quản trị cơ cấu đơn vị" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="490" width="190" height="55" as="geometry" />
         </mxCell>
@@ -934,7 +937,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-laZeqscqfGlsmr0jDLg-25" value="Xử lý logic của hệ thống" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="340" y="342.5" width="160" height="285" as="geometry" />
+          <mxGeometry x="340" y="360" width="180" height="297.5" as="geometry" />
         </mxCell>
         <mxCell id="-laZeqscqfGlsmr0jDLg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-laZeqscqfGlsmr0jDLg-33" target="-laZeqscqfGlsmr0jDLg-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
