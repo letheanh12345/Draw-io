@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T02:39:16.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="IJep2ZhW0eh3LnUjWzEA" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-27T02:40:11.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="EM1f1zAWf-tQ3hl45aiV" version="20.0.3" type="github" pages="8">
   <diagram id="1Qcaf6288ehqlXWWsb9V" name="Page-1">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -751,13 +751,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-1" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="580" y="250" width="190" height="210" as="geometry" />
+          <mxGeometry x="600" y="290" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-2" value="CSDL của hệ thống" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="595" y="262.5" width="160" height="30" as="geometry" />
+          <mxGeometry x="615" y="302.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-3" value="CSDL Danh mục dùng chung" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="615" y="312.5" width="110" height="120" as="geometry" />
+          <mxGeometry x="635" y="352.5" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="54q48MzOTKH4L2BF1WrT-4" target="54q48MzOTKH4L2BF1WrT-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -803,21 +803,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-14" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="580" y="512.5" width="190" height="210" as="geometry" />
+          <mxGeometry x="600" y="552.5" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-15" value="CSDL của hệ thống khác" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" y="522.5" width="160" height="30" as="geometry" />
+          <mxGeometry x="610" y="562.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-16" value="CSDL&amp;nbsp; HDVDL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="600" y="582.5" width="65" height="70" as="geometry" />
+          <mxGeometry x="620" y="622.5" width="65" height="70" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-17" value="CSDL&amp;nbsp; khác" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="690" y="582.5" width="65" height="70" as="geometry" />
+          <mxGeometry x="710" y="622.5" width="65" height="70" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="54q48MzOTKH4L2BF1WrT-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="665" y="477.5" as="sourcePoint" />
-            <mxPoint x="675" y="507.5" as="targetPoint" />
+            <mxPoint x="685" y="517.5" as="sourcePoint" />
+            <mxPoint x="695" y="547.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="54q48MzOTKH4L2BF1WrT-22" target="54q48MzOTKH4L2BF1WrT-4" edge="1">
@@ -830,7 +830,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-22" value="Xử lý logic của hệ thống" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="350" y="425" width="120" height="120" as="geometry" />
+          <mxGeometry x="330" y="370" width="170" height="315" as="geometry" />
         </mxCell>
         <mxCell id="54q48MzOTKH4L2BF1WrT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="54q48MzOTKH4L2BF1WrT-32" target="54q48MzOTKH4L2BF1WrT-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
