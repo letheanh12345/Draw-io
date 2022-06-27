@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T04:03:30.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7ZqeQM8ZA5czUXMRg4-o" version="20.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-27T08:09:40.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-5h-sMtewt_TPtQXHpkL" version="20.0.3" type="github" pages="8">
   <diagram id="1Qcaf6288ehqlXWWsb9V" name="Page-1">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -973,7 +973,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qdyeawyi96JRXl51vy7z" name="Page-8">
-    <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1001,14 +1001,14 @@
         <mxCell id="-m1Xj2CckOGrIgAwN7Ai-1" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="240" height="415" as="geometry" />
         </mxCell>
-        <mxCell id="-m1Xj2CckOGrIgAwN7Ai-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Phân hệ web portal&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-m1Xj2CckOGrIgAwN7Ai-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Hệ thống ứng dụng Web cho khách du lịch&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-m1Xj2CckOGrIgAwN7Ai-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Phân hệ Mobile App&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="240" width="220" height="60" as="geometry" />
+        <mxCell id="-m1Xj2CckOGrIgAwN7Ai-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Hệ thống ứng dụng Mobile App cho khách du lịch&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-m1Xj2CckOGrIgAwN7Ai-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Phân hệ quản lý cho doanh nghiệp&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="332.5" width="220" height="60" as="geometry" />
+        <mxCell id="-m1Xj2CckOGrIgAwN7Ai-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Hệ thống ứng dụng quản lý cho doanh nghiệp&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="332.5" width="220" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="-m1Xj2CckOGrIgAwN7Ai-5" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Hệ thống quản lý dữ liệu, nội dung cho cơ quan quản lý&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="420" width="220" height="100" as="geometry" />
