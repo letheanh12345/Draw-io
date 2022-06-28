@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T07:58:05.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DB2JxDcRDI9Thlh9uzME" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T07:58:35.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="b8KzUmRY09kGMa5W7yjZ" version="20.0.3" type="github">
   <diagram id="qKefR4hz4mBQs22Y33Zr" name="Page-1">
     <mxGraphModel dx="1755" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,9 +166,6 @@
         <mxCell id="bkC1gz-02QZVTi5_y55y-75" value="Các bộ ngành" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/icon-dashboard/icon-dashboard-9.jpg;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1353.5" y="748" width="112" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="bkC1gz-02QZVTi5_y55y-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.856;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="bkC1gz-02QZVTi5_y55y-80" target="bkC1gz-02QZVTi5_y55y-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bkC1gz-02QZVTi5_y55y-80" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="510" y="788" width="460" height="120" as="geometry" />
         </mxCell>
@@ -189,6 +186,12 @@
         </mxCell>
         <mxCell id="bkC1gz-02QZVTi5_y55y-90" value="Hệ thống BI (Dashboard)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1070" y="307" width="160" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="bkC1gz-02QZVTi5_y55y-91" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="850" as="sourcePoint" />
+            <mxPoint x="1050" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
