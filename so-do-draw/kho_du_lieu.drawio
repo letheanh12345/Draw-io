@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T07:57:28.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="hC-1fftyU_eyTWrnobG6" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T07:58:05.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DB2JxDcRDI9Thlh9uzME" version="20.0.3" type="github">
   <diagram id="qKefR4hz4mBQs22Y33Zr" name="Page-1">
     <mxGraphModel dx="1755" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="bkC1gz-02QZVTi5_y55y-36" value="Dữ liệu từ các tổ chức" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="40" y="800" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bkC1gz-02QZVTi5_y55y-37" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Hệ thống BI (Dashboard)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="bkC1gz-02QZVTi5_y55y-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1030" y="128" width="230" height="302" as="geometry" />
         </mxCell>
         <mxCell id="bkC1gz-02QZVTi5_y55y-51" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL Ngành Xây Dựng&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -161,7 +161,7 @@
           <mxGeometry x="1356.75" y="630" width="105.5" height="99.21" as="geometry" />
         </mxCell>
         <mxCell id="bkC1gz-02QZVTi5_y55y-74" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.nicepng.com/png/detail/207-2077815_signup-for-monthly-website-growth-online-marketing-digital.png;" vertex="1" parent="1">
-          <mxGeometry x="1079.02" y="130.06" width="131.96" height="109.88" as="geometry" />
+          <mxGeometry x="1075.02" y="155.12" width="149.97" height="124.88" as="geometry" />
         </mxCell>
         <mxCell id="bkC1gz-02QZVTi5_y55y-75" value="Các bộ ngành" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/icon-dashboard/icon-dashboard-9.jpg;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1353.5" y="748" width="112" height="112" as="geometry" />
@@ -186,6 +186,9 @@
             <mxPoint x="450" y="840" as="sourcePoint" />
             <mxPoint x="510" y="840" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bkC1gz-02QZVTi5_y55y-90" value="Hệ thống BI (Dashboard)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="307" width="160" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
