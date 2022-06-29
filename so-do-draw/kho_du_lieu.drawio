@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T04:26:05.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qifxTwmRHFPbUdT9TQKr" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T04:26:29.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="dyhXNeVcWekTiteovZid" version="20.0.3" type="github">
   <diagram id="qKefR4hz4mBQs22Y33Zr" name="Page-1">
-    <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1930" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,7 +163,7 @@
         <mxCell id="bkC1gz-02QZVTi5_y55y-80" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="510" y="788" width="460" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bkC1gz-02QZVTi5_y55y-81" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;GIS DATABASE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="bkC1gz-02QZVTi5_y55y-81" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;CSDL BẢN ĐỒ&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="833" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bkC1gz-02QZVTi5_y55y-87" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;" parent="1" edge="1">
