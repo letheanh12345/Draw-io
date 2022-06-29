@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T02:53:47.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3ga3vBgmKGpfZbryAje7" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T02:47:53.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fQaqKlGXqGvqqUqfoVhn" version="20.0.3" type="github">
   <diagram id="ZFM-qC4R8ZPciTshkOly" name="Page-1">
     <mxGraphModel dx="1930" dy="2363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -514,16 +514,16 @@
         <mxCell id="P4MSnm5AEiezFjPZue9H-7" value="Hệ thống quản lý chỉ tiêu ngành du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="704" y="220" width="456" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MaDXFfwrm1o8qLIMjKg1-1" value="CSDL GIS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="MaDXFfwrm1o8qLIMjKg1-1" value="CSDL BẢN ĐỒ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1554.27" y="954.5" width="120" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="MaDXFfwrm1o8qLIMjKg1-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="MaDXFfwrm1o8qLIMjKg1-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1224" y="79" width="636" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="MaDXFfwrm1o8qLIMjKg1-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
+        <mxCell id="MaDXFfwrm1o8qLIMjKg1-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" parent="1" vertex="1">
           <mxGeometry x="1241.47" y="84.5" width="56.53" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MaDXFfwrm1o8qLIMjKg1-11" value="Hệ thống quản lý bản đồ số ngành du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="MaDXFfwrm1o8qLIMjKg1-11" value="Hệ thống quản lý bản đồ số ngành du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1310" y="94.5" width="530" height="30" as="geometry" />
         </mxCell>
       </root>
