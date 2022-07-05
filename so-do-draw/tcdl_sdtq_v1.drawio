@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T09:18:49.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wjpdV-yPY5o7-xfJnAfb" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T03:59:33.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bD0DlB5rHYdt_4vT8xyS" version="20.0.4" type="github">
   <diagram id="ZFM-qC4R8ZPciTshkOly" name="Page-1">
     <mxGraphModel dx="2413" dy="2662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,13 +383,13 @@
           <mxGeometry x="629.75" y="19.999999999999993" width="56.53" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-319" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="584" y="545.5" width="586" height="61" as="geometry" />
+          <mxGeometry x="584" y="545.5" width="286" height="61" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-320" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" parent="1" vertex="1">
           <mxGeometry x="599.74" y="554.5" width="56.53" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-321" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Hệ thống quản lý tài liệu số&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="652.27" y="561" width="457.73" height="39" as="geometry" />
+          <mxGeometry x="666" y="555" width="137.73" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pVwDu6yBrwNiej8qQjBI-323" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1240" y="544" width="610" height="61" as="geometry" />
@@ -516,6 +516,15 @@
         </mxCell>
         <mxCell id="MaDXFfwrm1o8qLIMjKg1-11" value="Hệ thống quản lý bản đồ số ngành du lịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1310" y="94.5" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GWpqy2gj-QglZMnH_cnt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="886" y="544" width="286" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="GWpqy2gj-QglZMnH_cnt-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngkey.com/png/full/231-2317122_delete-database-icon-database.png;" vertex="1" parent="1">
+          <mxGeometry x="901.74" y="553" width="56.53" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GWpqy2gj-QglZMnH_cnt-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Hệ thống quản lý kho dữ liệu&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="968" y="553.5" width="137.73" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
