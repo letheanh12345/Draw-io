@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T10:00:15.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="V-ubqKrUJzfjH1sQgiT5" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-10T10:02:12.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZxDzLcNG1a4RtAsN8hEi" version="20.0.4" type="github" pages="4">
   <diagram id="zjv7xRD2d8CWsWP2C0z3" name="KHO_DU_LIEU">
     <mxGraphModel dx="1496" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -186,6 +186,15 @@
           <mxGeometry x="0.4456" y="-5" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-4NInJSv7doew-wwzsZ0-1" value="Nguồn dữ liệu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="810" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4NInJSv7doew-wwzsZ0-2" value="Lớp kho dữ liệu dùng chung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="810" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4NInJSv7doew-wwzsZ0-3" value="Lớp dữ liệu đầu ra" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="880" y="810" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
