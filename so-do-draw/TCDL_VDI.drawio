@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T09:46:02.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ndoTrNJtcQvwElExTMGh" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-10T09:46:23.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IpiQ8Z4e_MDbPkjA9R5p" version="20.0.4" type="github" pages="2">
   <diagram id="zjv7xRD2d8CWsWP2C0z3" name="KHO_DU_LIEU">
     <mxGraphModel dx="1755" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
         <mxCell id="ZNj8Q3jo7RUEMHUyCB7l-46" value="Lớp người dùng" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="285" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZNj8Q3jo7RUEMHUyCB7l-47" value="Kênh giao tiếp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ZNj8Q3jo7RUEMHUyCB7l-47" value="Lớp giao tiếp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZNj8Q3jo7RUEMHUyCB7l-48" value="Các phân hệ hệ thống" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
