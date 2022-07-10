@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T10:03:40.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eEAWA3iarV_pXm0rdXOm" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-10T10:04:03.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IGJNwaHLqnYCnqbnhm6J" version="20.0.4" type="github" pages="4">
   <diagram id="zjv7xRD2d8CWsWP2C0z3" name="KHO_DU_LIEU">
     <mxGraphModel dx="1496" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -353,13 +353,13 @@
         <mxCell id="FwkCiJyNjovQVrjhuCxu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FwkCiJyNjovQVrjhuCxu-7" target="FwkCiJyNjovQVrjhuCxu-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FwkCiJyNjovQVrjhuCxu-7" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="FwkCiJyNjovQVrjhuCxu-7" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="240" y="270" width="420" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FwkCiJyNjovQVrjhuCxu-8" value="Cán bộ TCDL" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://nukeviet.vn/uploads/store/images/2017_09/boss-512.png;" vertex="1" parent="1">
           <mxGeometry x="291" y="285" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="FwkCiJyNjovQVrjhuCxu-9" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="FwkCiJyNjovQVrjhuCxu-9" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#36393d;fillColor=#eeeeee;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="240" y="510" width="420" height="280" as="geometry" />
         </mxCell>
         <mxCell id="FwkCiJyNjovQVrjhuCxu-10" value="Phân hệ quản lý người dùng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -377,7 +377,7 @@
         <mxCell id="FwkCiJyNjovQVrjhuCxu-18" value="Phân hệ quản lý nghiên cứu khoa học" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="690" width="395" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="FwkCiJyNjovQVrjhuCxu-24" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="FwkCiJyNjovQVrjhuCxu-24" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="820" width="420" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FwkCiJyNjovQVrjhuCxu-25" value="Kho dữ liệu" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
