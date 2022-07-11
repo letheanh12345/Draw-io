@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T06:43:36.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XRkZnjhZ_AIrCYzgc5nz" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-11T06:43:46.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vjZvNVyjyZ6aYVsNWMN3" version="20.0.4" type="github" pages="5">
   <diagram id="_jcga1OgcqKLy_UtHIyf" name="Page-1">
     <mxGraphModel dx="1930" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -564,7 +564,7 @@
           <mxGeometry x="511.73" y="480" width="163.27" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmjivA2rItHzManTr3Z5-22" value="API service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="511.73" y="580" width="163.27" height="60" as="geometry" />
+          <mxGeometry x="511.73" y="567" width="163.27" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmjivA2rItHzManTr3Z5-23" value="Load/làm sạch dữ liệu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="390" width="170" height="60" as="geometry" />
@@ -615,7 +615,7 @@
           <mxGeometry x="300" y="480" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dg6rttoRBRT7ECTe9TsP-8" value="Load dữ liệu vào kho" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="580" width="170" height="60" as="geometry" />
+          <mxGeometry x="300" y="567" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dg6rttoRBRT7ECTe9TsP-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;Tính toán các datamart&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="650" width="170" height="60" as="geometry" />
