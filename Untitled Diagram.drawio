@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:41:16.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vvVMFVhO8R7KY8s-y88d" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-12T09:42:31.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oq846xpiavuj5sy_tMlw" version="20.0.4" type="github" pages="3">
   <diagram id="PGIGTQQTb61rqsV8WSBd" name="TTDH">
     <mxGraphModel dx="1135" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -269,6 +269,36 @@
         </mxCell>
         <mxCell id="c-8BCl8X8CSuS8g_xNzr-27" value="Mobile App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/54/428/png-transparent-person-holding-smartphone-computer-icons-mobile-app-development-icon-design-business-mobile-apps-electronics-gadget-text.png;" vertex="1" parent="1">
           <mxGeometry x="280" y="405" width="69.86" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nb6jfYQUIjmBuJb3sK3a-5" target="Nb6jfYQUIjmBuJb3sK3a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-5" value="CSDL Dân cư" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="860" y="528.08" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nb6jfYQUIjmBuJb3sK3a-7" target="c-8BCl8X8CSuS8g_xNzr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-7" value="LGSP (Trong ngành CA)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="468.08" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nb6jfYQUIjmBuJb3sK3a-11" target="c-8BCl8X8CSuS8g_xNzr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-11" value="LGSP (Ngoài ngành CA)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="690" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.046;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nb6jfYQUIjmBuJb3sK3a-13" target="Nb6jfYQUIjmBuJb3sK3a-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-13" value="CSDL Hải quan" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="860" y="697.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.104;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nb6jfYQUIjmBuJb3sK3a-15" target="Nb6jfYQUIjmBuJb3sK3a-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb6jfYQUIjmBuJb3sK3a-15" value="CSDL Bảo hiểm" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="860" y="817.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
