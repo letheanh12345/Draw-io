@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:08:26.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GgKwiKF8_Si4ZIA7tWsc" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-12T09:08:48.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QQ7GTAjyiPFw_UDzgb_N" version="20.0.4" type="github" pages="2">
   <diagram id="PGIGTQQTb61rqsV8WSBd" name="TTDH">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
         <mxCell id="c-8BCl8X8CSuS8g_xNzr-12" value="&lt;span style=&quot;font-size: 13pt; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Nhận các thông tin điều phối từ chỉ huy&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="605" width="390" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="c-8BCl8X8CSuS8g_xNzr-13" value="&lt;span style=&quot;font-size: 13pt; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Nhận các thông tin điều phối từ chỉ huy&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-13" value="&lt;span style=&quot;font-size: 13pt; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Nhận thông tin vi phạm, tai nạn, sự cố từ người dân&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="750" width="390" height="55" as="geometry" />
         </mxCell>
         <mxCell id="c-8BCl8X8CSuS8g_xNzr-15" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
