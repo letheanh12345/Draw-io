@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:09:39.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3njmcFIRQmQL4oHD7hnG" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-12T09:10:04.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Uozo0XhWle-mSMmgIHp6" version="20.0.4" type="github" pages="3">
   <diagram id="PGIGTQQTb61rqsV8WSBd" name="TTDH">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="eGtscwR1bkd6JvTQH0hO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.781;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eGtscwR1bkd6JvTQH0hO-47" target="eGtscwR1bkd6JvTQH0hO-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eGtscwR1bkd6JvTQH0hO-47" value="Trục tích hợp dữ liệu(LGSP)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-47" value="Trục tích hợp dữ liệu (LGSP)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="1070" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
