@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T08:54:12.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PpNjo77K00wWmGFEukPc" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T09:02:51.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="niDfAP876y1zetCd1lrU" version="20.0.4" type="github">
   <diagram id="PGIGTQQTb61rqsV8WSBd" name="TTDH">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
         <mxCell id="eGtscwR1bkd6JvTQH0hO-15" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="870" width="420" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eGtscwR1bkd6JvTQH0hO-16" value="CSDL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-16" value="CSDL Hệ thống" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="362.5" y="890" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eGtscwR1bkd6JvTQH0hO-17" value="Người dùng" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -104,6 +104,33 @@
             <mxPoint x="323.53999999999996" y="871.3199999999999" as="sourcePoint" />
             <mxPoint x="323.55999999999995" y="823.4099999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.166;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eGtscwR1bkd6JvTQH0hO-38" target="eGtscwR1bkd6JvTQH0hO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-38" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="1050" width="137.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-39" value="Lớp CSDL tích hợp về CSDL TTĐH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-41" value="CSDL Bằng chứng vi phạm, tai nạn" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.052;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eGtscwR1bkd6JvTQH0hO-42" target="eGtscwR1bkd6JvTQH0hO-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-42" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="1150" width="137.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-43" value="CSDL&amp;nbsp; từ TTĐH khác" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="551.25" y="1170" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.781;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eGtscwR1bkd6JvTQH0hO-47" target="eGtscwR1bkd6JvTQH0hO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGtscwR1bkd6JvTQH0hO-47" value="Trục tích hợp dữ liệu(LGSP)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1070" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
