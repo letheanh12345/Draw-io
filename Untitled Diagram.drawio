@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:03:17.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lYYy3BGOkUfRFm3Ellur" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T09:08:26.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GgKwiKF8_Si4ZIA7tWsc" version="20.0.4" type="github" pages="2">
   <diagram id="PGIGTQQTb61rqsV8WSBd" name="TTDH">
     <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -131,6 +131,89 @@
         </mxCell>
         <mxCell id="eGtscwR1bkd6JvTQH0hO-47" value="Trục tích hợp dữ liệu(LGSP)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="1070" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DOtN18GJxP6MkH0465LX" name="APP_CHIEN_SI">
+    <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c-8BCl8X8CSuS8g_xNzr-2" target="c-8BCl8X8CSuS8g_xNzr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-2" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-4" value="SMS" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/originals/e5/a3/dd/e5a3dd1dcfb9313756b53bc55ec518d5.jpg;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="393.84999999999997" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-5" value="Email" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn5.vectorstock.com/i/1000x1000/12/04/mail-icon-in-flat-style-email-symbol-in-flat-style-vector-28061204.jpg;" vertex="1" parent="1">
+          <mxGeometry x="563.14" y="390.00000000000006" width="53.73" height="58.08" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c-8BCl8X8CSuS8g_xNzr-7" target="c-8BCl8X8CSuS8g_xNzr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-7" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-8" value="Cán bộ CSGT" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://nukeviet.vn/uploads/store/images/2017_09/boss-512.png;" vertex="1" parent="1">
+          <mxGeometry x="440" y="285" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-9" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#36393d;fillColor=#eeeeee;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="420" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-10" value="&lt;span style=&quot;font-size: 13pt; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Tra cứu thông tin&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="530" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-11" value="&lt;span style=&quot;font-size: 13pt; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Xử lý thông tin vụ việc tại hiện trường&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="680" width="390" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-12" value="&lt;span style=&quot;font-size: 13pt; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Nhận các thông tin điều phối từ chỉ huy&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="605" width="390" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-13" value="&lt;span style=&quot;font-size: 13pt; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Nhận các thông tin điều phối từ chỉ huy&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="750" width="390" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-15" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=#f5f5f5;gradientColor=#b3b3b3;dashPattern=8 3 1 3;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="850" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-16" value="CSDL Hệ thống" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="870" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-17" value="Người dùng" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-18" value="Lớp giao tiếp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-19" value="Lớp xử lý &lt;br&gt;nghiệp vụ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-20" value="Lớp CSDL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="578" y="480" as="sourcePoint" />
+            <mxPoint x="578" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="480" as="sourcePoint" />
+            <mxPoint x="300" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439.5" y="820" as="sourcePoint" />
+            <mxPoint x="439.5" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c-8BCl8X8CSuS8g_xNzr-27" value="Mobile App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/54/428/png-transparent-person-holding-smartphone-computer-icons-mobile-app-development-icon-design-business-mobile-apps-electronics-gadget-text.png;" vertex="1" parent="1">
+          <mxGeometry x="280" y="405" width="69.86" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
