@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T01:58:22.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7AByBe-7V-R6uErGHQ-Q" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T01:59:39.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YYtzizkV64n5nf_UKlWV" version="20.1.2" type="github">
   <diagram id="qKefR4hz4mBQs22Y33Zr" name="Page-1">
     <mxGraphModel dx="1930" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="PQhKsUpgHa-h9H9_H7lT-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CSDL&amp;nbsp; Ngành tài nguyên môi trường&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="38.5" y="567.5" width="153" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MF6yJK_C7R6zyruHCNCu-1" value="Hệ thống IOC" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cmcts.com.vn/media/data/users/dich-vu-gia-sat-he-thong1.jpg;" vertex="1" parent="1">
+        <mxCell id="MF6yJK_C7R6zyruHCNCu-1" value="Hệ thống IOC" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cmcts.com.vn/media/data/users/dich-vu-gia-sat-he-thong1.jpg;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1363.3" y="361.5" width="115.38" height="75" as="geometry" />
         </mxCell>
       </root>
