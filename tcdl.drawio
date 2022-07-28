@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T06:36:45.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BkBL5AiS6D18jXo7RSCR" version="20.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-28T06:37:20.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KEaTtvSnVHTvFjZ9rmHS" version="20.2.1" type="github" pages="5">
   <diagram id="XomLEQzCnRbEuQ70xejL" name="KHO_TCDL">
     <mxGraphModel dx="1755" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
           <mxGeometry x="552.5" y="772" width="115" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ZNj8Q3jo7RUEMHUyCB7l-41" value="Phân hệ quản trị thống kê sự cố" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="845" width="170" height="55" as="geometry" />
+          <mxGeometry x="270" y="845" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ZNj8Q3jo7RUEMHUyCB7l-42" value="Phân hệ quản trị job hệ thống" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="845" width="190" height="55" as="geometry" />
