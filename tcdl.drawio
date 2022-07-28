@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T04:22:34.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OyeLxFKF0lay_WWFhxMF" version="20.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-28T04:24:53.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eJxWwVX3iQ3gDi-ijceS" version="20.2.1" type="github" pages="5">
   <diagram id="XomLEQzCnRbEuQ70xejL" name="KHO_TCDL">
     <mxGraphModel dx="1755" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -442,26 +442,13 @@
         <mxCell id="yGtEiTGV7UjJpeZ6LA2y-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;LGSP&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="710" y="510" width="40" height="429.5" as="geometry" />
         </mxCell>
-        <mxCell id="yGtEiTGV7UjJpeZ6LA2y-2" value="HTTT của TCDL" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="860" y="680" width="134.5" height="80" as="geometry" />
+        <mxCell id="yGtEiTGV7UjJpeZ6LA2y-2" value="Hệ thống quản trị hệ thông" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="860" y="660" width="134.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yGtEiTGV7UjJpeZ6LA2y-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.033;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="yGtEiTGV7UjJpeZ6LA2y-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="728" as="sourcePoint" />
+            <mxPoint x="750" y="720" as="sourcePoint" />
             <mxPoint x="870" y="708" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yGtEiTGV7UjJpeZ6LA2y-10" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=openThin;startArrow=openThin;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.372;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="yGtEiTGV7UjJpeZ6LA2y-2" source="FwkCiJyNjovQVrjhuCxu-24">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="665" y="865" as="sourcePoint" />
-            <mxPoint x="910" y="770" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="910" y="920" />
-              <mxPoint x="910" y="880" />
-              <mxPoint x="915" y="810" />
-              <mxPoint x="795" y="850" />
-              <mxPoint x="693" y="1140" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XvmOg9P6LOqB2UaIvOKH-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;exitX=-0.046;exitY=0.204;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -510,6 +497,15 @@
               <mxPoint x="609" y="360" />
               <mxPoint x="609" y="360" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7w4Y4IxkDogrRtG-k97R-1" value="Ứng dụng khác" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="860" y="780" width="134.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7w4Y4IxkDogrRtG-k97R-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.033;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7w4Y4IxkDogrRtG-k97R-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="840" as="sourcePoint" />
+            <mxPoint x="870" y="828" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
