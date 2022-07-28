@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T06:38:04.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ILV-dmhaOEAmiT829fwz" version="20.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-28T06:48:19.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NytTXZyic2rT-TsEeofW" version="20.2.1" type="github" pages="5">
   <diagram id="XomLEQzCnRbEuQ70xejL" name="KHO_TCDL">
     <mxGraphModel dx="1755" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -677,11 +677,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vyzt7hP7ZrFxpbcFC5Gz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUmuVIiXUHQgTjsaC1Jd-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="667.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NUmuVIiXUHQgTjsaC1Jd-1" value="CSDL khác" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="870" y="632.5" width="135.5" height="75" as="geometry" />
         </mxCell>
@@ -728,6 +723,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="751" y="1198" as="sourcePoint" />
             <mxPoint x="875.4385000000002" y="1198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rvBM7ceXq2Wu-hFgIbSH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="662.5" as="targetPoint" />
+            <mxPoint x="870" y="662.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
