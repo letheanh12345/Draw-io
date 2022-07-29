@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T08:12:42.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VG1H9_f4Gn2FDCdN1Kma" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-29T08:15:18.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kte0i7An1AYw79jZwZxD" version="20.2.2" type="github" pages="2">
   <diagram id="SF1TYB0Ha5Lxseoj5ab4" name="SDTQ">
-    <mxGraphModel dx="965" dy="1424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1135" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry x="490" y="-10" width="57.5" height="155.62" as="geometry" />
         </mxCell>
         <mxCell id="wMdmDeeaGHVgdiBrAZcu-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tài nguyên môi trường&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-10" width="60" height="155.62" as="geometry" />
+          <mxGeometry x="290" y="-10" width="70" height="155.62" as="geometry" />
         </mxCell>
         <mxCell id="wMdmDeeaGHVgdiBrAZcu-34" value="&lt;span style=&quot;color: rgb(0, 26, 51); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeuiPc, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Lucida Grande&amp;quot;, Roboto, Ubuntu, Tahoma, &amp;quot;Microsoft Sans Serif&amp;quot;, Arial, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Giao thông thông minh&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="180" y="-10.94" width="65" height="157.5" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="390" y="-10" width="60" height="155.62" as="geometry" />
         </mxCell>
         <mxCell id="wMdmDeeaGHVgdiBrAZcu-37" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;ANTT-An ninh trật tự&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-14.38" width="60" height="160" as="geometry" />
+          <mxGeometry x="90" y="-14.38" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wMdmDeeaGHVgdiBrAZcu-38" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tích hợp dịch vụ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="177.5" width="120" height="40" as="geometry" />
