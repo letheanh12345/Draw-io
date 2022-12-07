@@ -1,60 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T03:52:07.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7GtPBGaFayapnwp7dB_t" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-07T14:29:29.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="RGHu-l5SWxhW_qjyERBY" version="20.6.0" type="github" pages="2">
   <diagram id="ZhanfEsQdsRr_vnpqUvt" name="Page-1">
-    <mxGraphModel dx="927" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uuGv-PVJDa6Hp5PDCnwj-1" target="uuGv-PVJDa6Hp5PDCnwj-2">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uuGv-PVJDa6Hp5PDCnwj-1" target="uuGv-PVJDa6Hp5PDCnwj-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-1" value="Đầu vào" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20191016/ourlarge/pngtree-water-filtering-treatment-device-vector-sign-icon-png-image_1804187.jpg;direction=east;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-1" value="Đầu vào" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20191016/ourlarge/pngtree-water-filtering-treatment-device-vector-sign-icon-png-image_1804187.jpg;direction=east;" parent="1" vertex="1">
           <mxGeometry x="70" y="120" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uuGv-PVJDa6Hp5PDCnwj-2" target="uuGv-PVJDa6Hp5PDCnwj-14">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uuGv-PVJDa6Hp5PDCnwj-2" target="uuGv-PVJDa6Hp5PDCnwj-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-2" value="Máy bơm" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2299/2299226.png;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-2" value="Máy bơm" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2299/2299226.png;" parent="1" vertex="1">
           <mxGeometry x="250" y="129" width="52" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uuGv-PVJDa6Hp5PDCnwj-10" target="uuGv-PVJDa6Hp5PDCnwj-11">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uuGv-PVJDa6Hp5PDCnwj-10" target="uuGv-PVJDa6Hp5PDCnwj-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20191130/ourlarge/pngtree-water-faucet-icon-png-image_2055919.jpg;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20191130/ourlarge/pngtree-water-faucet-icon-png-image_2055919.jpg;" parent="1" vertex="1">
           <mxGeometry x="540" y="122.5" width="65" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-11" value="Đầu ra" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20191016/ourlarge/pngtree-water-filtering-treatment-device-vector-sign-icon-png-image_1804187.jpg;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-11" value="Đầu ra" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20191016/ourlarge/pngtree-water-filtering-treatment-device-vector-sign-icon-png-image_1804187.jpg;" parent="1" vertex="1">
           <mxGeometry x="670" y="120" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uuGv-PVJDa6Hp5PDCnwj-14" target="uuGv-PVJDa6Hp5PDCnwj-10">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uuGv-PVJDa6Hp5PDCnwj-14" target="uuGv-PVJDa6Hp5PDCnwj-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-14" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-14" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="370" y="80" width="127.5" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="166" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-17" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-17" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="390" y="171" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410" y="171" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="430" y="171" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="450" y="171" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-23" value="Đèn UV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-23" value="Đèn UV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="92.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-24" value="Cột chứa vật liệu hấp phụ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-24" value="Cột chứa vật liệu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="187.5" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="390" y="120" width="80" height="21" as="geometry" />
         </mxCell>
       </root>
