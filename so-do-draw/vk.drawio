@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T14:29:42.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="z3tijyc9Wn7U72Bofwdn" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-23T15:06:04.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="WTg6j7N0w41901UG4fwT" version="20.6.0" type="github" pages="2">
   <diagram id="ZhanfEsQdsRr_vnpqUvt" name="Page-1">
     <mxGraphModel dx="965" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,16 +36,16 @@
         <mxCell id="uuGv-PVJDa6Hp5PDCnwj-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="166" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-17" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-17" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="171" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-18" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="171" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-19" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="171" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="uuGv-PVJDa6Hp5PDCnwj-20" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="171" width="15" height="10" as="geometry" />
         </mxCell>
         <mxCell id="uuGv-PVJDa6Hp5PDCnwj-23" value="Đèn UV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
