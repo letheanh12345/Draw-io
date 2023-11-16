@@ -1,12 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T13:46:16.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eLuIUXeBpWSJB7zDzjoX" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T13:55:22.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Y0vLhrGLk3fZE0wXFqcM" version="22.1.2" type="github">
   <diagram name="job-receive-mail" id="sXPrm_Bt0p8oL9XMs3Nz">
     <mxGraphModel dx="2057" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hj8g5iYXiU8Dz0LDpaQD-2">
+        <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hj8g5iYXiU8Dz0LDpaQD-2" target="Hj8g5iYXiU8Dz0LDpaQD-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-62" value="Job auto&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hj8g5iYXiU8Dz0LDpaQD-3">
+          <mxGeometry x="-0.3651" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-2" value="S" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -16,7 +21,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-5" value="process unread receive from mail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hj8g5iYXiU8Dz0LDpaQD-6" target="Hj8g5iYXiU8Dz0LDpaQD-10">
           <mxGeometry relative="1" as="geometry">
@@ -50,6 +55,16 @@
         <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hj8g5iYXiU8Dz0LDpaQD-17" target="Hj8g5iYXiU8Dz0LDpaQD-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hj8g5iYXiU8Dz0LDpaQD-17" target="Hj8g5iYXiU8Dz0LDpaQD-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-65" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hj8g5iYXiU8Dz0LDpaQD-63">
+          <mxGeometry x="0.0622" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-17" value="Upload file lên system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="340" width="120" height="60" as="geometry" />
         </mxCell>
@@ -67,7 +82,7 @@
         <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hj8g5iYXiU8Dz0LDpaQD-23" target="Hj8g5iYXiU8Dz0LDpaQD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-23" value="update status" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-23" value="update" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-26" value="Minio" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -146,6 +161,12 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-64" value="Logging" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hj8g5iYXiU8Dz0LDpaQD-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hj8g5iYXiU8Dz0LDpaQD-26" target="Hj8g5iYXiU8Dz0LDpaQD-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
